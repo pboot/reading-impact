@@ -1,0 +1,101 @@
+Aspect_term	Aspect_category	Term_type	Comments
+author	author	lemma	
+authoress	author	lemma	Difficulty: "The Authoress" turns out to be a review website. Some hits for "Originally posted on The Authoress : Book Review and More" Maybe remove the term altogether, or can we devise a way around this? There are 27 hits for 'authoress' of which 3 refer to the review website.
+writer	author	lemma	
+role	character	lemma	toegevoegd
+protagonist	character	lemma	
+character	character	lemma	PB: how often used in the sense of a letter?
+figure	character	lemma	toegevoegd
+portrait	character	lemma	
+book	general	lemma	
+collection	general	lemma	
+reading material	general	phrase	
+novel	general	lemma	
+biography	general	lemma	
+fiction	general	lemma	toegevoegd
+novella	general	lemma	
+debut	general	lemma	
+oeuvre	general	lemma	
+text	general	lemma	
+quick read	general	phrase	Quick read is often used positively
+series	general	lemma	toegevoegd
+scenario	plot	lemma	
+scene	plot	lemma	
+story	plot	lemma	
+climax	plot	lemma	
+ending	plot	lemma	
+event	plot	lemma	
+occurrence	plot	lemma	toegevoegd
+premise	plot	lemma	toegevoegd
+highlight	plot	lemma	When used as a verb this often refers to style, as in "[style element X] was used to highlight [plot element Y] "
+high point	plot	phrase	
+denouement	plot	lemma	
+build-up	plot	lemma	
+plot	plot	lemma	
+plot twist	plot	phrase	This may indicate surprise.
+twist	plot	phrase	This may indicate surprise.
+account	plot	lemma	
+narrative	plot	lemma	toegevoegd
+tale	plot	lemma	toegevoegd
+thread	plot	lemma	
+situation	plot	lemma	
+conclusion	plot	lemma	
+finale	plot	lemma	
+final	plot	lemma	toegevoegd
+standoff	plot	lemma	
+storyline	plot	lemma	
+I	reader	word	
+you	reader	word	
+yourself	reader	word	
+read	reader	lemma	
+reader	reader	lemma	
+me	reader	word	
+myself	reader	word	
+chronicle	setting	lemma	PB: at present we don't use setting, don't spend too much time on it
+sketch	setting	lemma	Can be about setting, can be about characters, can be story-internal. Consider removal, perhaps too broad.
+image	setting	lemma	toegevoegd
+atmosphere	setting	lemma	
+mood	setting	lemma	Mood@reader could indicate affect while mood in other instances indicates setting.
+decor	setting	lemma	
+era	setting	lemma	
+passage	style	lemma	
+style	style	lemma	
+describe	style	lemma	
+wording	style	lemma	
+poetic	style	word	
+formulate	style	lemma	
+phrase	style	lemma	toegevoegd
+phrasing	style	word	
+write down	style	phrase	
+jot down	style	phrase	
+record	style	lemma	
+perspective	style	lemma	This shouldn't be categorized as style, I think. "A fascinating perspective on how to view art" is meer inhoudelijk dan stilistisch.
+prose	style	lemma	
+rhythm	style	lemma	
+write	style	lemma	
+stylistic*	style	word	
+language	style	word	Consider filtering out the plural as this is often used to refer to other things than style.
+language use	style	phrase	
+use of language	style	phrase	toegevoegd
+characteristic	style	lemma	The singular is often used to refer to authorial style while the plural refers to other things like characters and book content. Maybe filter out the plural?
+tone	style	lemma	
+articulate	style	lemma	
+word choice	style	phrase	
+choice of words	style	phrase	
+sentence	style	lemma	
+sentence structure	style	phrase	
+syntax	style	lemma	toegevoegd
+syntactical	style	lemma	toegevoegd
+punctuation	style	lemma	toegevoegd
+dilemma	topic	lemma	
+information	topic	lemma	Sometimes used to refer to information within the story.
+informative	topic	lemma	
+philosophical	topic	lemma	
+philosophy	topic	lemma	
+topic	topic	lemma	
+subject	topic	lemma	
+problem	topic	lemma	Sometimes used to refer to experiental problems: " i only have one problem with it and thats the structure" not story-internal problems. Consider removing.
+issue	topic	lemma	Same problem as "problem" though more often used to refer to themes and topics of the book.
+theme	topic	lemma	
+question	topic	lemma	On second thought I think question works: 'interesting question' and 'fascinating question' both yield results that indicate reflection.
+concept	topic	lemma	

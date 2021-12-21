@@ -1,0 +1,1428 @@
+Impact_group	Impact_term_NL	Impact_term_EN	Condition	Neg-filter	Category	Comments	Comments			Valid cats
+verb_discontinuous_phrase		(tear|tears|tore) (my|your) heart			N					Att
+verb_discontinuous_phrase		(absorb|absorbes|absorbed) (me|you|reader)			Att					A
+verb_discontinuous_phrase		(absorb|absorbes|absorbed) (me|you|reader)			N					N
+adjective_term_book_related	verslavend	(addicting|addictive)			Att					Sur
+adjective_term_book_related	verslavend	(addicting|addictive)			N					H
+verb_term_book_related		(address|addresses|addressed)	@topic		R					Neg
+verb_continuous_phrase		(affect|affects|affected) (me|uyou|reader)			A					Neu
+verb_continuous_phrase	opgaan	(am|are|is|be|was) (engrossed|immersed) in			Att					R
+verb_continuous_phrase	opgaan	(am|are|is|be|was) (engrossed|immersed) in			N					S
+adjective_term_reader_related	geraakt	(am|is|was) (moved)	@reader		N					
+adjective_term_reader_related	geraakt	(am|is|was) (touched)	@reader		N					
+verb_continuous_phrase		(am|is|was) hooked			Att					
+verb_continuous_phrase		(am|is|was) hooked			N					
+verb_term_reader_related		(analyse|analyses|analysed|analyze|analyzes|analyzed)	@reader		R					
+verb_continuous_phrase	(spreekt|spreken|sprak|spraken) (me) (aan)	(appeals|appealed) (to) (me|you)			A					
+verb_discontinuous_phrase	(spreekt|spreken|sprak|spraken) (me) (aan)	(appeals|appealed) (to) (me|you)	@character		N					
+verb_discontinuous_phrase	(spreekt|spreken|sprak|spraken) (me) (aan)	(appeals|appealed) (to) (me|you)	@plot		N					
+verb_discontinuous_phrase	(spreekt|spreken|sprak|spraken) (me) (aan)	(appeals|appealed) (to) (me|you)	@style		S					
+verb_discontinuous_phrase		(attention|interest) (dwindle|dwindles|dwindled)			Neg					
+noun_continuous_phrase		(bad ass|badass|bad-ass)			N					
+adjective_term_book_related	bloedstollend	(blood-curdling|bloodcurdling)			N					
+verb_term_reader_related		(blow|blows|blew)(your|my) mind			R					
+verb_discontinuous_phrase		(break|breaks|broke) (my|your) heart			N					
+verb_continuous_phrase	zucht van verlichting	(breathe|breathes|breathed) a sigh			N					
+adjective_term_book_related	opgebouwd	(build|builds|built)	@plot		N					
+adjective_term_book_related	opgebouwd	(build|builds|built)	@character		N					
+verb_discontinuous_phrase		(build|builds|built) up			N					
+noun_continuous_phrase	schaterlach	(burst|bursts) of laughter			H					
+verb_continuous_phrase	schaterlachen	(burst|bursts) out laughing			H					
+verb_discontinuous_phrase	(ik|je) toeroepen	(call out) (to) (you|me|reader)			A					
+verb_continuous_phrase		(call|calls|called) into question			R					
+verb_continuous_phrase		(call|calls|called|bring|brings|brought) to mind			R					
+verb_discontinuous_phrase	(krijg|krijg) (geen|niet) (genoeg van)	(can't|couldn't|can not|could not) (get enough)			Att					
+verb_discontinuous_phrase	(krijg|krijg) (geen|niet) (genoeg van)	(can't|couldn't|can not|could not) (get enough)			A					
+verb_discontinuous_phrase		(can't|couldn't|can not|could not) (stop|end) (reading|flipping|turning)			Att					
+verb_discontinuous_phrase		(can't|couldn't|can not|could not) (stop|end) (reading|flipping|turning)			A					
+verb_discontinuous_phrase		(captivate|captivates|captivated) attention			Att					
+verb_discontinuous_phrase		(captivate|captivates|captivated) attention			A					
+verb_discontinuous_phrase		(capture|captures|captured) (my|your|the) attention			Att					
+verb_discontinuous_phrase		(capture|captures|captured) (my|your|the) attention			A					
+adjective_term_reader_related	geroerd	(catch|catches|caught) (me|you)			A					
+verb_discontinuous_phrase		(change|changed|alter|altered|shift|shifted|reassess|reassessed) (my|your|reader's|that|this) opinion			R					
+verb_discontinuous_phrase		(change|changes|changed)(your|my) mind			R					
+verb_discontinuous_phrase		(change|changes|changed|alter|alters|altered|shift|shifts|shifted|question|questions|questioned|broaden|broadens|broadened) (my|your|reader's) perspective			R					
+noun_term_book_related	cliché	(cliche|cliches|chlich|cliched)			Neg					
+noun_term_book_related		(cliffhanger|cliff hanger|cliff-hanger)			N					
+verb_discontinuous_phrase	(komt|komen) (op) (me|mij) (over)	(come|comes|came) across to (me|you|reader)			A					
+verb_discontinuous_phrase	(kom*|gekomen|kwam*) (tot leven)	(come|comes|came) alive			N					
+verb_discontinuous_phrase	(betrokken) (me|mij|je|de lezer)	(concern|concerns|concerned) (me|you|reader)			R					
+verb_discontinuous_phrase	(mij|me|je|lezer|ik|jij) geconfronteerd	(confront|confronts|confronted) (me|you|reader)			R					
+adjective_term_book_related	knus	(cosy|cozy)			A					
+verb_continuous_phrase	niet meer stoppen	(couldn't|can't) (stop|end)			Att					
+verb_continuous_phrase	niet meer stoppen	(couldn't|can't) (stop|end)			A					
+verb_discontinuous_phrase	(roept|riep) (sfeer) (op)	(create|creates|created) atmosphere			A					
+verb_discontinuous_phrase		(create|creates|created|generate|generates|generated) (insight|insights)			R					
+noun_continuous_phrase	zwarte humor	(dark|black) (humor|humour)			H					
+noun_discontinuous_phrase	(diep*) (inzicht*)	(deep) (insight|insights|thought|thoughts|meaning|understanding)			R					
+verb_continuous_phrase	vond er (niets|weinig) aan	(did not|didn't) enjoy			Neg					
+verb_discontinuous_phrase	(je|me|mij) (niet) (losliet|loslieten|losgelaten)	(didn't|did not) (let) (me go|you go| go of me|go of you)			R					
+verb_discontinuous_phrase	moeilijk (wegleggen|leggen|stoppen)	(difficult|hard) to (quit|stop)			Att					
+verb_discontinuous_phrase	moeilijk (wegleggen|leggen|stoppen)	(difficult|hard) to (quit|stop)			A					
+verb_discontinuous_phrase	(laat|liet|lieten) (mij|me|je|lezer) (niet) (los)	(do|did) not let (me|you|reader) go			Att					
+verb_discontinuous_phrase	(laat|liet|lieten) (mij|me|je|lezer) (niet) (los)	(do|did) not let (me|you|reader) go			A					
+verb_discontinuous_phrase	(doet|deed) (wat met) (je|me|mij)	(do|does|did) something to (me|you|reader)			R					
+verb_discontinuous_phrase		(drag|drags|dragged) (me|you|reader) in			Att					
+verb_discontinuous_phrase		(drag|drags|dragged) (me|you|reader) in			A					
+verb_discontinuous_phrase	(sleep*|sleur*) (je|me|lezer|ons) (mee)	(drag|drags|dragged) (you|me|reader|us) (along)			Att					
+verb_discontinuous_phrase	(sleep*|sleur*) (je|me|lezer|ons) (mee)	(drag|drags|dragged) (you|me|reader|us) (along)			A					
+verb_discontinuous_phrase		(draw|draws|drew) (me|you|reader) in			Att					
+verb_discontinuous_phrase		(draw|draws|drew) (me|you|reader) in			A					
+verb_continuous_phrase	wegdromen	(dream|dreams|dreamt) away			N					
+verb_continuous_phrase	(makkelijk|gemakkelijk) geschreven	(easily|simply) written			S					
+adjective_term_book_related		eery			A					
+adjective_term_book_related		eerie			A					
+verb_term	meeleven	empathise			N					
+verb_term	inleven	empathise			A					
+verb_term	meeleven	empathize			N					
+verb_term	inleven	empathize			A					
+adjective_term_reader_related	bekoord	enamored	@reader		A					
+adjective_term_reader_related	bekoord	enamoured	@reader		A					
+verb_discontinuous_phrase	(zet aan|aanzet) (tot nadenken)	(encourage|encourages|encouraged) (thought|thoughts|reflection|reflections)			R					
+verb_discontinuous_phrase	(betrekt) (me|mij|je|lezer)	(engage|engages|engaged) (me|you|reader)			A					
+verb_discontinuous_phrase		(enter|enters|entered) the story world			N					
+verb_continuous_phrase		(evoke|evokes|evoked) (feeling|feelings|smile|sadness|melancholy|tenderness|emotion|emotions)			A					
+verb_term_book_related		(explore|explores|explored)	@topic		R					
+noun_continuous_phrase	eye opener	(eye opener|eyeopener|eye-opener)			R					
+verb_continuous_phrase	(valt|vallen|viel|vielen) (op) (zijn|haar|hun) (plek|plaats)	(fall|falls|fell) (into place)			N					
+adjective_term_book_related		favorite			A					
+adjective_term_book_related		favourite			A					
+adjective_term_book_related		flavorless			Neg					
+adjective_term_book_related		flavourless			Neg					
+verb_discontinuous_phrase	(vloog|vliegt) voorbij	(fly|flies|flew) by			N					
+verb_term		focalise			Neu					
+verb_term		focalize			Neu					
+verb_continuous_phrase		(force|forces|forced) (me|you|reader) (to) (continue)			Att					
+verb_continuous_phrase		(force|forces|forced) (me|you|reader) (to) (continue)			A					
+verb_continuous_phrase		(force|forces|forced) (me|you|reader) (to) (read|go) on			Att					
+verb_continuous_phrase		(force|forces|forced) (me|you|reader) (to) (read|go) on			A					
+verb_continuous_phrase	(dwong|dwongen|dwingt|dwingen) (me|mij|je|de lezer)	(force|forces|forced) (me|you|reader) (to) (think|consider|realize|realise|ask|question)			R					
+noun_continuous_phrase	volledige aandacht	(full|complete) attention			Att					
+noun_continuous_phrase	volledige aandacht	(full|complete) attention			A					
+verb_discontinuous_phrase		(gain|gains|gained) (insight|insights)			R					
+verb_continuous_phrase	betekenis (krijgt|krijgen)	(gain|gains|gained) meaning			R					
+verb_discontinuous_phrase		(get|gets|got) (insight|insights)			R					
+verb_discontinuous_phrase	(geeft|geven|gegeven|biedt|bieden|geboden|vergaart|vergaard|krijgt|krijgen|gekregen|vergaren|ontstaat|ontstaan) (inzicht|inzichten)	(give|gives|gave) (insight|insights)			R					
+verb_continuous_phrase	(bezorgt|bezorgde) (me|je)	(give|gives|gave) (me|you)			A					
+verb_continuous_phrase		(give|gives|gave) (me|you|reader) the creeps			N					
+verb_discontinuous_phrase		(gives|give|gave|offers|offer|offered|gain|gains|gained|gets|get|got|obtain|obtained|glean|gleaned|provides|provided) (insight|insights|peek|view|analysis|depth)			R					
+verb_continuous_phrase	goed (geschreven|omschreven|beschreven)	(good|well|best)	@style		S					
+verb_discontinuous_phrase	(grijpt|grijpen|greep|grepen) (bij) (de|je|me|mijn|m'n) (keel)	(grab|grabs|grabbed) (me|you) by the throat			Att					
+verb_discontinuous_phrase	(grijpt|grijpen|greep|grepen) (bij) (de|je|me|mijn|m'n) (keel)	(grab|grabs|grabbed) (me|you) by the throat			N					
+adjective_term_book_related	geweldig	(great|amazing)	@style		S					
+adverb_term_book_related		(greatly|amazingly)	@style		S					
+verb_discontinuous_phrase		(hard|difficult) to (believe|swallow)			Neg					
+verb_discontinuous_phrase		(hard|difficult) to comprehend			Neg					
+verb_discontinuous_phrase	moeilijk (leesba*|inkom*|onderscheiden|volgen)	(hard|difficult) to distinguish			Neg					
+verb_discontinuous_phrase		(hard|difficult) to follow			Neg					
+verb_discontinuous_phrase	moeilijk (leesba*|inkom*|onderscheiden|volgen)	(hard|difficult) to get into			Neg					
+verb_discontinuous_phrase		(hard|difficult) to imagine			R					
+verb_discontinuous_phrase		(hard|difficult) to keep track			Neg					
+verb_discontinuous_phrase		(hard|difficult) to keep up			Neg					
+verb_discontinuous_phrase		(hard|difficult) to put down			Att		wertk niet, zie fac9887ccb7a7e733fb87572dc9a46c7-1			
+verb_discontinuous_phrase		(hard|difficult) to put down			A					
+verb_discontinuous_phrase		(hard|difficult) to relate to			Neg					
+verb_discontinuous_phrase		(hard|difficult) to take			Neg					
+verb_discontinuous_phrase		(hard|difficult) to understand			Neg					
+verb_discontinuous_phrase		(have|has|had|need|needs|needed) to think about			R					
+adjective_term_book_related		(heartbreaking|heart-breaking)			A					
+adjective_term_book_related	hartverwarmend	(heartwarming|heart-warming)			A					
+verb_continuous_phrase	zucht van verlichting	(heave|heaves|heaved) a sigh			N					
+adjective_term_book_related		(heavy|controversial|serious|difficult|important)	@topic		R					
+verb_discontinuous_phrase	(houdt|houden) (je|me|mijn|m'n) (aandacht) (vast)	(hold|holds|held) (my|your) (attention)			Att					
+verb_discontinuous_phrase	(houdt|houden) (je|me|mijn|m'n) (aandacht) (vast)	(hold|holds|held) (my|your) (attention)			A					
+verb_discontinuous_phrase	(houdt|houden) (je|me|mij|de lezer) (vast)	(hold|holds|held) on to (me|you|reader)			Att					
+verb_discontinuous_phrase	(houdt|houden) (je|me|mij|de lezer) (vast)	(hold|holds|held) on to (me|you|reader)			A					
+noun_term_book_related	humor	(humour|humor)			H					
+other_discontinuous_phrase	frustratie	(I|me|my|you|your|reader) frustration			Neg					
+verb_discontinuous_phrase		(I|me|you|reader) (am|is|are) (grateful|thankful)			A					
+verb_discontinuous_phrase	(leeft je|leefde me) in	(I|me|you|reader) (sympathize|sympathizes|sympathized|sympathise|sympathises|sympathised|empathize|empathizes|empathized|empathise|empathises|empathised)			N					
+verb_discontinuous_phrase	(ik|mij|me|mijn|je|jouw|lezer) (huiver|huivert|huiveren|huiverde)	(I|me|you|reader) (wince|winces|winced)			Neg					
+verb_discontinuous_phrase	(ik|je) (begrijp|begrijpt|begreep|begrepen|begrijpen)	(I|you) (understand|understands|understood)			R					
+verb_discontinuous_phrase		(I|you|me|reader) (look|looks|looked) forward to			A					
+noun_discontinuous_phrase	(ik|je|mijn|me|mij) voorgevoel*	(I|you|my|your) (premonition|presentiment|foreboding|anticipation)			N					
+noun_discontinuous_phrase	(ik|je|mijn|me) antipathie	(I|you|my|your) antipathy			Neg					
+noun_discontinuous_phrase	(ik|je|mijn|me) opwinding	(I|you|my|your) excitement			A					
+verb_term_reader_related		(I|you|myself|reader|me|yourself) (reflect|reflects|reflected)			R					
+adjective_term_reader_related		(I|you|reader) (am|are|is) anxious			A					
+adjective_term_reader_related		(I|you|reader) (am|are|is) grateful			A					
+verb_discontinuous_phrase	(je|ik) (deel) (uitma*)	(I|you|reader) (am|are|is|was) (a) (part) (of)			N					
+verb_discontinuous_phrase		(I|you|reader) (am|is|are) keen			A					
+verb_discontinuous_phrase		(I|you|reader) (am|is|are) offended			Neg					
+verb_discontinuous_phrase	(kan|kunt|kunnen|kon) (ik|je) volgen	(I|you|reader) (can|could) (understand|follow)			R					
+verb_discontinuous_phrase	(ik|je|lezer) (verbonden)	(I|you|reader) (connect|connects|connected)			N					
+verb_continuous_phrase	(ik|je|lezer) (voelt|voelde)	(I|you|reader) (feel|feels|felt)			A					
+verb_continuous_phrase	(ik|je|lezer) (voelt|voelde)	(I|you|reader) (feel|feels|felt)	%like	y	N					
+other_discontinuous_phrase		(I|you|reader) (feel|feels|felt) for			A					
+noun_continuous_phrase		(I|you|reader) (have|has|had) trouble			Neg					
+verb_continuous_phrase	(ik|je) (hoopte|hoopt)	(I|you|reader) (hope|hopes|hoped)			A					
+verb_continuous_phrase	(ik|je) (hoopte|hoopt)	(I|you|reader) (hope|hopes|hoped)	@general	y	N					
+verb_continuous_phrase	(ik|je) (hoopte|hoopt)	(I|you|reader) (hope|hopes|hoped)	@plot		N					
+verb_discontinuous_phrase	(ik|je|lezer) (gaat|ging) op	(I|you|reader) (is|was) (immersed|absorbed|engrossed)			Att					
+verb_discontinuous_phrase	(ik|je|lezer) (gaat|ging) op	(I|you|reader) (is|was) (immersed|absorbed|engrossed)			A					
+verb_continuous_phrase	(ik|je) (merk|merkt)	(I|you|reader) (notice|notices|noticed)			R					
+verb_discontinuous_phrase		(I|you|reader) (shiver|shivers|shivered)			A					
+verb_discontinuous_phrase	(ik wilde|je wilt|wil je) (weten)	(I|you|reader) (want|wants|wanted) to know			N					
+verb_discontinuous_phrase		(I|you|reader) (want|wants|wanted) to read (on|further)			Att					
+verb_discontinuous_phrase		(I|you|reader) (want|wants|wanted) to read (on|further)			A					
+other_discontinuous_phrase		(I|you|reader) confused			Neg					
+other_discontinuous_phrase	aansporen	(I|you|reader) encourage			A					
+other_discontinuous_phrase	beklijven	(I|you|reader) endure			Neg					
+other_discontinuous_phrase	(je|ik) (je|jezelfme|mij|mezelf|mijzelf) (waan*)	(I|you|reader) imagine* (myself|yourself|himself|herself)			N					
+verb_discontinuous_phrase	(worstel|worstelt|worstelen|worstelde|worstelden) (met|door)	(I|you|reader)(struggle|struggles|struggled) with			Neg					
+verb_discontinuous_phrase		(incite|incites|incited) (thought|thoughts|reflection|reflections)			R					
+verb_discontinuous_phrase		(inspire|inspires|inspired) new insights			R					
+verb_discontinuous_phrase	(me|mij|je|de lezer) (betrokken)	(involve|involves|involved) (me|you|the reader)			N					
+adjective_term_book_related	onweerstaanbaar	(irresistible|irresistable)			A					
+verb_discontinuous_phrase	(houdt|houden|hield|hielden) (me|mij|je|de lezer) (alert|scherp|geboeid|aan het lezen)	(keep|keeps|kept) (me|you|reader) (alert|sharp|focused|focussed|captivated)			Att					
+verb_discontinuous_phrase	(houdt|houden|hield|hielden) (me|mij|je|de lezer) (alert|scherp|geboeid|aan het lezen)	(keep|keeps|kept) (me|you|reader) (alert|sharp|focused|focussed|captivated)			A					
+verb_discontinuous_phrase		(keep|keeps|kept) (me|you|reader) (engaged|reading|going|involved|wondering)			Att		dubbel			
+verb_discontinuous_phrase		(keep|keeps|kept) (me|you|reader) (engaged|reading|going|involved|wondering)			A		dubbel			
+verb_term_reader_related		(learn|learns|learned)	@reader		R					
+verb_discontinuous_phrase		(leave|leaves|left) (wonder|wondering)			N					
+verb_discontinuous_phrase	(liet|laat|laten)(je|ons|me|lezer)(koud)	(leave|leaves|left) (you|me|us|reader) (cold)			Neg					
+adjective_term_book_related		(likeable|likable)			A					
+verb_discontinuous_phrase	(leef*) (in) (wereld)	(live|lives|lived) (in) (world)	@reader		N					
+verb_continuous_phrase	(uitkijken|verlangen) naar	(look|looks|looked|looking) forward to			A					
+verb_discontinuous_phrase	(aandacht) (verliezen|verloor|verloren)	(lose|loses|lost) (attention)			Neg					
+verb_discontinuous_phrase	(mezelf|jezelf|je|me) in (verliezen)	(lose|loses|lost) (me|myself|you|yourself) in			Att					
+verb_discontinuous_phrase	(mezelf|jezelf|je|me) in (verliezen)	(lose|loses|lost) (me|myself|you|yourself) in			A					
+noun_discontinuous_phrase	(draad) (kwijt*)	(lose|loses|lost) (the thread)			Neg					
+verb_continuous_phrase	afgeknapt	(lose|loses|lost) interest			Neg					
+adjective_term_book_related	prachtig	(magnificent|gorgeous|superb)			A					
+adjective_term_book_related	prachtig	(magnificent|gorgeous|superb)	@plot		N					
+adjective_term_book_related	prachtig	(magnificent|gorgeous|superb)	@character		N					
+adjective_term_book_related	prachtig	(magnificent|gorgeous|superb)	@style		S					
+other		(magnificently|gorgeously|superbly)	@style		S					
+verb_discontinuous_phrase	(zet|zetten|zette) (de lezer|je|me|mij) (aan het denken)	(make|makes|made) (you|me|reader) (think)			R					
+adjective_term_book_related		(make|makes|made) (you|me|the reader) consider	@reader		R		impact_group foutief			
+verb_continuous_phrase		(make|makes|made|leave|leaves|left) a deep impression			R					
+verb_continuous_phrase		(make|makes|made|leave|leaves|left) an impression			R					
+adjective_term_book_related	meesterlijk	(masterful|masterfully|skillful|skillfully)			A					
+adjective_term_book_related	meesterlijk	(masterful|skillful)	@plot		N					
+adjective_term_book_related	meesterlijk	(masterful|skillful)	@character		N					
+adjective_term_book_related	meesterlijk	(masterful|skillful)	@style		S					
+other		(masterfully|skilfully)	@style		S					
+verb_discontinuous_phrase		(mean|means|meant) something			R					
+adjective_term_book_related	melancholisch	(melancholy|melancholic)			A					
+verb_discontinuous_phrase		(melt|melts|melted) (my|your) heart			N					
+verb_term		(mesmerise|mesmerize)			Att					
+verb_term		(mesmerise|mesmerize)	@plot		N					
+verb_term		(mesmerise|mesmerize)	@character		N					
+verb_term		(mesmerise|mesmerize)	@style		S					
+verb_term		(mesmerise|mesmerize)			A					
+adjective_term_reader_related		(mesmerised|mesmerized)			Att					
+adjective_term_reader_related		(mesmerised|mesmerized)	@plot		N					
+adjective_term_reader_related		(mesmerised|mesmerized)	@character		N					
+adjective_term_reader_related		(mesmerised|mesmerized)	@style		S					
+adjective_term_reader_related		(mesmerised|mesmerized)			A					
+adjective_term_book_related		(mesmerising|mesmerizing)			Att					
+adjective_term_book_related		(mesmerising|mesmerizing)	@plot		N					
+adjective_term_book_related		(mesmerising|mesmerizing)	@character		N					
+adjective_term_book_related		(mesmerising|mesmerizing)	@style		S					
+adjective_term_book_related		(mesmerising|mesmerizing)			A					
+adjective_term_book_related	metaforisch	(metaphoric|metaphorical)			Neu					
+adjective_term_book_related		(meticulous|meticulously)	@plot		N					
+adjective_term_book_related		(meticulous|meticulously)	@style		S					
+adjective_term_book_related		(mind-numbing|mind numbing|mindnumbing)			Neg					
+adjective_term_book_related		(mindblowing|mind-blowing)			A					
+verb_discontinuous_phrase		(move|moves|moved|touch|touches|touched|influence|influences|influenced) (me|you|reader)			A					
+verb_discontinuous_phrase	(gelezen) (moet|moeten) (hebben)	(must|should) (read)			A					
+noun_discontinuous_phrase	afkeer	(my|your) aversion			Neg					
+noun_discontinuous_phrase	(ik|je|mijn|me) blijdschap	(my|your) joy			A					
+noun_discontinuous_phrase	zenuwen	(my|your) nerves			Neg					
+noun_discontinuous_phrase	(ik|je|mijn) tegenzin	(my|your) reluctance			Neg	?				
+noun_discontinuous_phrase	worsteling	(my|your) struggle			Neg					
+noun_discontinuous_phrase	medegevoel	(my|your|reader) compassion			A					
+noun_discontinuous_phrase	geduld	(my|your|reader) patience			Neg					
+noun_discontinuous_phrase	argwaan	(my|your|reader) suspicion			N					
+noun_discontinuous_phrase	afschuw	(my|your|true|deep) horror			A					
+verb_discontinuous_phrase	(moet) (me|mijn|m'n|je) (hoofd) (erbij houden)	(need|have|needs|has|had|needed) to pay attention			N					
+verb_continuous_phrase	knap gedaan	(nicely|cleverly|skillfully|well|perfectly) (done|written)			S					
+verb_discontinuous_phrase	(stuit|stoot) (mij|me|je|lezer) borst	(offend|offends|offended) (me|you|reader)	%if	y	Neg					
+verb_discontinuous_phrase		(offer|offers|offered) (insight|insights)			R					
+adjective_term_book_related	ééndimensionaal	(onedimensional|one-dimensional|one dimensional)			Neg					
+verb_discontinuous_phrase	(open*) (me|je|mij) (ogen)	(open|opens|opened) (my|your) eyes to			R					
+noun_term_book_related		(pageturner|page-turner|page turner)			Att					
+noun_term_book_related		(pageturner|page-turner|page turner)			N					
+adjective_term_book_related	nauwgezet	(painstaking|painstakingly)			A					
+noun_continuous_phrase	(belangstelling) (gewek*|wek*)	(pique|piques|piqued|peak|peaks|peaked) (my|your|the) interest			Att					
+noun_continuous_phrase	(belangstelling) (gewek*|wek*)	(pique|piques|piqued|peak|peaks|peaked) (my|your|the) interest			A					
+verb_discontinuous_phrase		(place|places|placed) (me|myself|you|yourself) in			N					
+adjective_term_book_related	prettig	(pleasant|pleasing)	@style		S					
+adjective_term_book_related	dichterlijk	(poetic|poetical)			S					
+adjective_term_book_related	poëtisch	(poetic|poetical)			S					
+noun_continuous_phrase		(point of view|pov)			Neu					
+verb_term_reader_related		(prompt|prompts|prompted|provoke|provokes|provoked) self-reflection			R					
+verb_discontinuous_phrase		(provide|provides|provided) (insight|insights)			R					
+verb_discontinuous_phrase	(trok|trekt) (ik|mij|me|mijn|je|jouw|lezer) aan	(pull|pulls|pulled) (me|you|reader) in			Att					
+verb_discontinuous_phrase	(trok|trekt) (ik|mij|me|mijn|je|jouw|lezer) aan	(pull|pulls|pulled) (me|you|reader) in			N					
+verb_discontinuous_phrase	(trok|trekt) (ik|mij|me|mijn|je|jouw|lezer) aan	(pull|pulls|pulled) (me|you|reader) in			A					
+verb_discontinuous_phrase		(put|puts) (me|myself|you|yourself) in			Att					
+verb_discontinuous_phrase		(put|puts) (me|myself|you|yourself) in			N					
+verb_discontinuous_phrase	(zat|zit) (je|ik) (in het verhaal)	(put|puts|places|placed) (me|you|reader)	@plot		N					
+verb_discontinuous_phrase	(roept|riep) (vragen) (op)	(raise|raises|raised) questions			R					
+verb_continuous_phrase	(nogmaals) (lezen)	(read|reads) (again)			A					
+verb_discontinuous_phrase	(leest|las) (in) (een|1) (adem|avond|ruk|zucht) (uit)	(read|reads) (in) (one) (go|sitting|evening|day)			Att					
+verb_discontinuous_phrase	(leest|las) (in) (een|1) (adem|avond|ruk|zucht) (uit)	(read|reads) (in) (one) (go|sitting|evening|day)			A					
+verb_continuous_phrase	weglezen	(read|reads) away			Att					
+verb_term_reader_related	(bedenk|bedacht) (me)	(realise|realises|realised|realize|realizes|realized)	@reader		R					
+adjective_term_book_related		(relatable|relateable)			A					
+verb_discontinuous_phrase	(doet|doen) (me|mij|je) (denken aan)	(remind|reminds|reminded) (me|you|reader) (of)			R					
+verb_discontinuous_phrase		(remind|reminds|reminded) (me|you|the reader)			R					
+verb_discontinuous_phrase		(retain|retains|retained) (me|my|you|your|reader)			Att					
+verb_discontinuous_phrase		(retain|retains|retained) (me|my|you|your|reader)			A					
+verb_discontinuous_phrase		(reward|rewards|rewarded) (me|you|reader)			A					
+verb_discontinuous_phrase		(rip|rips|ripped) (my|your) heart			N					
+noun_continuous_phrase		(roller coaster|rollercoaster|roller-coaster) ride			N					
+verb_continuous_phrase		(rub|rubs) (you|me) the wrong way			Neg					
+verb_discontinuous_phrase	(grijpt|grijpen|greep|grepen) (bij) (de|je|me|mijn|m'n) (keel)	(seize|seizes|seized) (me|you) by the throat			Att					
+verb_discontinuous_phrase	(grijpt|grijpen|greep|grepen) (bij) (de|je|me|mijn|m'n) (keel)	(seize|seizes|seized) (me|you) by the throat			A					
+verb_discontinuous_phrase	(jammer|vreselijk|spijt|speet|snel) (uit (hebt|had))	(shame|sad|pity|quick|bad|fast) to finish			N					
+verb_discontinuous_phrase		(should|must) (read)	^if	y	R					
+adjective_term_book_related		(skillful|skillfully)	@plot		N					
+adjective_term_book_related		(skillful|skillfully)	@character		N					
+adjective_term_book_related		(skillful|skillfully)	@style		S					
+adjective_term_book_related		(skillful|skillfully)			A					
+verb_discontinuous_phrase	(blijft|blijven|bleef|bleven) (je|me|mij) (bij)	(stay|stays|stayed) (with) (you|me|reader)			R					
+verb_discontinuous_phrase		(steal|steals|stole) (my|your) heart			N					
+verb_continuous_phrase		(stick|sticks|stuck) (with) (it)			N					
+verb_continuous_phrase		(stick|sticks|stuck) (with) (me|you|reader)			R					
+verb_discontinuous_phrase	(je|me) (aangrijpt|aangreep)	(stir|stirs|stirred) (me|you)			A					
+adjective_term_book_related	opgebouwd	(structure|structures|structured)	@plot		N					
+adjective_term_book_related	opgebouwd	(structure|structures|structured)	@character		N					
+verb_term	meezuigen	(suck|sucks|sucked) (me|you|reader) in			Att					
+verb_term	meezuigen	(suck|sucks|sucked) (me|you|reader) in			A					
+verb_term	meeleven	(sympathise|sympathize)			N					
+verb_term	meevoelen	(sympathize|sympathizes|sympathized|sympathise|sympathises|sympathised)			A					
+verb_discontinuous_phrase		(take|see) (the|a) perspective			R					
+verb_discontinuous_phrase	(grijpt|grijpen|greep|grepen) (bij) (de|je|me|mijn|m'n) (keel)	(take|takes|took) (me|you) by the throat			Att					
+verb_discontinuous_phrase	(grijpt|grijpen|greep|grepen) (bij) (de|je|me|mijn|m'n) (keel)	(take|takes|took) (me|you) by the throat			N					
+verb_discontinuous_phrase	(sleep*|sleur*) (je|me|lezer|ons) (mee)	(take|takes|took) (you|me|reader|us) (along)			Att					
+verb_discontinuous_phrase	(sleep*|sleur*) (je|me|lezer|ons) (mee)	(take|takes|took) (you|me|reader|us) (along)			N					
+noun_continuous_phrase		(tear-jerker|tearjerker|tear jerker)			A					
+verb_discontinuous_phrase	(staan de tranen) (me|mij|je) (in de ogen)	(tear*) (eye*)	@reader		A					
+noun_continuous_phrase	(tranen) (in) (de|me|mij|mijn|m'n) (ogen)	(tear|tears) (in|to) (the|my|your|reader's) (eye|eyes)			A					
+verb_discontinuous_phrase	(onderwerp|onderwerpen|thema|thema's) belangrijk*	(topic|topics|subject|subjects|theme|themes) important			R					
+verb_discontinuous_phrase	(raakt|raken|raakte|raakten) (me|mij|je|lezer)	(touch|touches|touched) (me|you|reader)			R					
+verb_discontinuous_phrase		(touch|touches|touched|) (my|your) heart			N					
+verb_discontinuous_phrase		(tune|tunes|tuned) out	@reader		Neg					
+verb_discontinuous_phrase		(understand|understood)	@reader		R					
+adjective_term_book_related		(unlikeable|unlikable)			Neg					
+verb_discontinuous_phrase		(warm|warms|warmed) (my|your) heart			N					
+verb_discontinuous_phrase		(warn|warns|warned) (me|you|reader)			A					
+verb_discontinuous_phrase		(win|wins|won) (my|your) heart			N					
+noun_discontinuous_phrase		(word|words) (choose|chooses|chose|choice)			S					
+noun_discontinuous_phrase	woordgebruik	(word|words) (use|uses|used|usage)			S					
+noun_continuous_phrase	dieptepunt	a (new|all-time|all time) low			Neg					
+noun_discontinuous_phrase	(een andere) (bril|blik|kijk)	a different (perspective|view|viewpoint|light)			R					
+noun_continuous_phrase	verplichte kost	a must			A					
+noun_continuous_phrase		a pity			Neg					
+noun_continuous_phrase		a shame			Neg					
+verb_term	absorberen	absorb	@reader		Att					
+verb_term	absorberen	absorb	@reader		N					
+adjective_term_reader_related		absorbed	@topic		R					
+verb_continuous_phrase	in het verhaal opgenomen	absorbed in the story			Att					
+verb_continuous_phrase	in het verhaal opgenomen	absorbed in the story			N					
+adjective_term_book_related		absorbing			N					
+adjective_term_book_related		absorbing	@topic		R					
+adjective_term_book_related		absurd			R					
+adjective_term_book_related		accessible			A					
+adjective_term		acute			A					
+adjective_term_book_related	bewonderenswaardig	admirable			A					
+adjective_term_book_related	bewonderenswaardig	admirable	@plot		N					
+adjective_term_book_related	bewonderenswaardig	admirable	@character		N					
+adjective_term_book_related	bewonderenswaardig	admirable	@style		S					
+noun_term_reader_related	bewondering	admiration	@plot		N					
+noun_term_reader_related	bewondering	admiration	@character		N					
+noun_term_reader_related	bewondering	admiration	@style		S					
+noun_term_reader_related	bewondering	admiration	@reader		A					
+verb_term	bewonderen	admire	@plot		N					
+verb_term	bewonderen	admire	@character		N					
+verb_term	bewonderen	admire	@style		S					
+verb_term	bewonderen	admire			A					
+adjective_term_book_related		adorable			A					
+adjective_term_book_related	avontuurlijk	adventurous			N					
+adjective_term_book_related	esthetisch	aesthetic			S					
+adjective_term_reader_related		afraid			A					
+adjective_term_book_related	ergerlijk	aggravating			Neg					
+noun_continuous_phrase	van de hak op de tak	all over the place			Neg					
+adjective_term_book_related	allegorisch	allegorical			Neu					
+noun_term_book_related	allegorie	allegory			Neu					
+noun_term_book_related		alliteration			Neu					
+adjective_term_book_related		amateurish			Neg					
+adjective_term_reader_related	versteld	amazed			A					
+adjective_term_book_related	super	amazing	@general		A					
+adjective_term_book_related	super	amazing	@plot		N					
+adjective_term_book_related	super	amazing	@character		N					
+adjective_term_book_related	super	amazing	@topic		R					
+adjective_term_book_related	super	amazing	@style		S					
+adjective_term_book_related		ambiguous			R					
+adjective_term_reader_related	vermaakt	amused	@reader		A					
+noun_term_book_related	vermaak	amusement			A					
+adjective_term_book_related	aardig	amusing			A					
+noun_term_book_related		anger	@reader		A					
+adjective_term_reader_related	kwaad	angry	@reader		A					
+noun_term_book_related		angst			A					
+adjective_term_book_related		angsty			A					
+verb_term	ergeren	annoy	@reader		Neg					
+noun_term_reader_related		annoyance			Neg					
+adjective_term_reader_related	geirriteerd	annoyed			Neg					
+adjective_term_book_related		annoying			Neg					
+adjective_term_book_related		anticlimactic			Neg					
+noun_term_book_related	anticlimax	anticlimax			Neg					
+noun_term_book_related	aantrekkelijkheid	appeal			A					
+adjective_term_book_related	aansprekend	appealing			A					
+adjective_term_book_related	aantrekkelijk	appealing	@style		S					
+adjective_term_book_related	aantrekkelijk	appealing	@character		N					
+verb_term	waarderen	appreciate			A					
+noun_term_reader_related	waardering	appreciation	@plot		N					
+noun_term_reader_related	waardering	appreciation	@character		N					
+noun_term_reader_related	waardering	appreciation	@style		S					
+noun_term_reader_related	waardering	appreciation			A					
+other		argh			A					
+adjective_term_book_related		artistic	@style		S					
+adjective_term_book_related	verbijsterend	astonishing			A					
+adjective_term_book_related	scherpzinnig	astute			S					
+adjective_term_book_related	sfeervol	atmospheric			S					
+adjective_term_book_related		attractive			A					
+adjective_term_book_related	authentiek	authentic	@character		N					
+adjective_term_book_related	authentiek	authentic	@style		S					
+adjective_term_book_related	authentiek	authentic			A					
+adjective_term_reader_related	bewust	aware			R					
+noun_term_reader_related	ontzag	awe	@reader		A					
+adjective_term_book_related		awesome	@general		A					
+adjective_term_book_related		awesome	@plot		N					
+adjective_term_book_related		awesome	@character		N					
+adjective_term_book_related		awesome	@style		S					
+adjective_term_book_related		awkward	@plot		N					
+adjective_term_book_related		awkward	@character		N					
+adjective_term_book_related		awkward	@style		Neg					
+adjective_term_book_related		awkward			A					
+other		awkwardly	@style		Neg					
+adjective_term_book_related	slecht	bad	@general		Neg					
+adjective_term_book_related	slecht	bad	@style		Neg					
+noun_term_book_related	wansmaak	bad taste			Neg					
+other_continuous_phrase		badly (written|phrased|done)			Neg					
+verb_term	verbijsteren	baffle			Sur					
+adjective_term_book_related	banaal	banal			Neg					
+noun_term_book_related		banter			H					
+adjective_term_book_related	mooi	beautiful	@plot		N					
+adjective_term_book_related	mooi	beautiful	@character		N					
+adjective_term_book_related	mooi	beautiful	@style		S					
+other		beautifully	@style		S					
+noun_discontinuous_phrase		before (my|your) eyes			N					
+adjective_term_book_related	geloofwaardig	believable			R					
+adjective_term_book_related	geloofwaardig	believable			N					
+adjective_term_book_related		bittersweet			N					
+adjective_term_book_related		bizarre			R					
+adjective_term_book_related		bland			Neg					
+adjective_term_book_related	troosteloos	bleak			A					
+adjective_term_book_related		blunt	@general		Neg					
+adjective_term_book_related		blunt	@style		Neg					
+adjective_term_book_related		bold	@general		R					
+verb_term	vervelen	bore	@reader		Neg					
+noun_term_book_related		bore			Neg					
+noun_term_reader_related	verveling	boredom	%(out of)		Neg					
+adjective_term_book_related	saai	boring			Neg					
+verb_continuous_phrase	(ik|je) last van	bothered by			Neg					
+adjective_term_reader_related		breathless			A					
+adjective_term_book_related	adembenemend	breathtaking			A					
+adjective_term_book_related		breezy	@style		S					
+noun_discontinuous_phrase		breezy read			S					
+noun_term_book_related	beknoptheid	brevity			Neu					
+noun_term_book_related		brilliance			A					
+noun_term_book_related		brilliance	@plot		N					
+noun_term_book_related		brilliance	@character		N					
+noun_term_book_related		brilliance	@style		S					
+adjective_term_book_related		brilliant	@general		A					
+adjective_term_book_related	geniaal	brilliant	@plot		N					
+adjective_term_book_related		brilliant	@style		S					
+other		brilliantly	@style		S					
+adjective_term_book_related		brutal			A					
+noun_continuous_phrase		build-up			N					
+noun_term_book_related	opbouw	buildup			N					
+noun_term_book_related		bummer			Neg					
+noun_continuous_phrase	bij (de|je|mijn) strot	by (the|your|my) throat			Att					
+noun_continuous_phrase	bij (de|je|mijn) strot	by (the|your|my) throat			A					
+verb_term		captivate			Att					
+verb_term	boeien	captivate	@plot		N					
+verb_term		captivate	@topic		R					
+verb_term		captivate			N					
+adjective_term_reader_related	geboeid	captivated	@character		N					
+adjective_term_reader_related	geboeid	captivated	@plot		N					
+adjective_term_reader_related		captivated	@style		S					
+adjective_term_reader_related		captivated	@topic		R					
+adjective_term_book_related	boeiend	captivating			Att					
+adjective_term_book_related	boeiend	captivating	@plot		N					
+adjective_term_book_related		captivating	@topic		R					
+adjective_term_book_related	boeiend	captivating	@style		S					
+adjective_term_book_related	boeiend	captivating	@character		N					
+adjective_term_book_related	boeiend	captivating			A					
+noun_term_book_related		caricature			Neg					
+verb_continuous_phrase	meegesleept	carried away			Att					
+verb_continuous_phrase	meegesleept	carried away			A					
+verb_term	pakken	catch	@plot		N					
+adjective_term_book_related	pakkend	catchy			Att					
+adjective_term_book_related	pakkend	catchy			A					
+adjective_term_book_related	cerebraal	cerebral	%palsy	y	Neu					
+verb_term	het schuurt	chafe	@reader		Neg					
+adjective_term_book_related	uitdagend	challenging			R					
+noun_term_book_related	charme	charm	@general		A					
+adjective_term_book_related	charmant	charming	@plot		N					
+adjective_term_book_related	charmant	charming	@character		N					
+adjective_term_book_related	charmant	charming	@style		S					
+adjective_term_book_related	charmant	charming	@general		A					
+noun_term_reader_related	juichen	cheer	%(squad|camp|leader|leaders)	y	N					
+verb_term	juichen	cheer			N					
+adjective_term_reader_related	vrolijk	cheerful	@character		N					
+adjective_term_reader_related	vrolijk	cheerful	@style		S					
+adjective_term_reader_related	vrolijk	cheerful	@reader		A					
+adjective_term_book_related		cheesy			Neg					
+adjective_term_book_related	kinderachtig	childish	childish		Neg					
+noun_term_reader_related	rilling	chill			A					
+adjective_term_book_related	huiveringwekkend	chilling	@plot		N					
+adjective_term_book_related	huiveringwekkend	chilling	@character		N					
+adjective_term_book_related	huiveringwekkend	chilling			A					
+noun_continuous_phrase	woordkeuze	choice of words			S					
+verb_term	grinniken	chuckle			H					
+noun_term_book_related	helderheid	clarity	@plot		N					
+noun_term_book_related	helderheid	clarity	@style		S					
+adjective_term_book_related	claustrofobisch	claustrophobic			A					
+adjective_term_book_related	duidelijk	clear	@style		S					
+noun_continuous_phrase	duidelijk beeld	clear image			S					
+adjective_term_book_related	knap	clever	@style		S					
+adverb_term_book_related		cleverly	@style		S					
+noun_term_book_related	spitsvondigheid	cleverness			A					
+adjective_term_book_related	clichematig	cliched			Neg					
+adjective_term_book_related	troostend	comforting			A					
+other		comic	%book*	y	H					
+adjective_term_book_related	komisch	comical			H					
+adjective_term_book_related	meeslepend	compelling			Att					
+adjective_term_book_related	meeslepend	compelling	@character		N					
+adjective_term_book_related	meeslepend	compelling	@plot		N					
+adjective_term_book_related	meeslepend	compelling	@style		S					
+adjective_term_book_related	meeslepend	compelling			A					
+verb_term		complain	@reader		Neg					
+noun_term_book_related		complaint			Neg					
+adjective_term_book_related		complex	@topic		R					
+noun_term_book_related	compliment	compliment			A					
+adjective_term_book_related		concise	@style		S					
+adjective_term_book_related		condescending			Neg					
+verb_term	confronteren	confront	@reader		R					
+adjective_term_reader_related	geconfronteerd	confronted	@reader		R					
+adjective_term_book_related	verwarrend	confusing	@reader		Neg					
+adjective_term_book_related		confusing	%(beginning)		R					
+adjective_term_reader_related		conscious	@reader		R					
+noun_term_reader_related	beschouwing	consideration			R					
+verb_term_reader_related		contemplate	@reader		R					
+noun_term_reader_related		contemplation			R					
+adjective_term_reader_related		contemplative			R					
+noun_term_reader_related		contentment	@reader		A					
+adjective_term_book_related	gekunsteld	contrived			Neg					
+adjective_term_book_related	controversieel	controversial			R					
+verb_term	overtuigen	convince	@reader		R					
+adjective_term_book_related	overtuigend	convincing	@character		N					
+adjective_term_book_related		convincing	@plot		N					
+adjective_term_book_related	overtuigend	convincing			R					
+adjective_term_book_related	overtuigend	convincing	@style		S					
+adjective_term_book_related		convoluted			Neg					
+other	gaaf	cool	%head	y	A					
+adjective_term_book_related		corny			Neg					
+adjective_term_book_related	gek	crazy			A					
+adjective_term_book_related	creatief	creative			A					
+adjective_term_book_related		credible			R					
+adjective_term_book_related	griezelig	creepy			A					
+adjective_term_book_related		crisp			S					
+noun_term_book_related		criticism			Neg					
+adjective_term_book_related	cru	crude			Neg					
+verb_term	huilen	cry			N					
+adjective_term_book_related	omslachtig	cumbersome			Neg					
+noun_term_reader_related	nieuwsgierigheid	curiosity	@reader		R					
+adjective_term_reader_related	benieuwd	curious	#(end|ends|ending)		N					
+adjective_term_reader_related	benieuwd	curious	%(part|series|sequel)		N					
+adjective_term_reader_related	nieuwsgierig	curious	@plot		N					
+adjective_term_reader_related	nieuwsgierig	curious	@character		N					
+adjective_term_reader_related	benieuwd	curious	@reader		R					
+adjective_term_book_related	schattig	cute			A					
+adjective_term_book_related	cynisch	cynical	@general		Neg					
+adjective_term_book_related	cynisch	cynical	@character		Neg					
+adjective_term_book_related	cynisch	cynical	@reader		Neg					
+noun_term_reader_related	cynisme	cynicism	@general		Neg					
+noun_term_reader_related	cynisme	cynicism	@character		Neg					
+noun_term_reader_related	cynisme	cynicism	@reader		Neg					
+noun_term_book_related	domper	damper			Neg					
+adjective_term_book_related	gewaagd	daring	@reader		A					
+adjective_term_book_related		dazzling	%looks	y	A					
+adjective_term_book_related		decent			A					
+noun_continuous_phrase	diep* betek*	deep* meaning*			R					
+adjective_term_book_related		deft			S					
+adjective_term_book_related		delicate	@plot		N					
+adjective_term_book_related		delicate	@style		S					
+adjective_term_book_related		delicious	@general		A					
+adjective_term_book_related	heerlijk	delicious	@plot		N					
+noun_term_reader_related	verrukking	delight			A					
+adjective_term_book_related	verrukt	delighted			A					
+adjective_term_book_related	verrukkelijk	delightful	@general		A					
+adjective_term_book_related	heerlijk	delightful	@style		S					
+adverb_term_book_related		delightfully	@style		S					
+verb_term		delve			N					
+adjective_term_book_related	deprimerend	depressing			A					
+noun_term_book_related	diepgang	depth	%lack*	y	A					
+noun_term_book_related		depth	%lack*	y	R					
+noun_term_book_related		depth	%lack*		Neg					
+verb_continuous_phrase	beschrijven	describe in			S					
+adjective_term_book_related		descriptive			Neu					
+noun_discontinuous_phrase	(lust om) (te lezen)	desire to read			Att					
+adjective_term_book_related		desolate			A					
+adjective_term_book_related	omstandig	detailed			S					
+verb_term		devour			Att					
+noun_term_book_related		dialogue			Neu					
+noun_term_book_related		diction			Neu					
+noun_continuous_phrase		different take on			R					
+verb_discontinuous_phrase	moeilijk (wegleggen|leggen|stoppen)	difficult to (put down|quit|stop)			Att		overlap met r. 123			
+verb_discontinuous_phrase	moeilijk (wegleggen|leggen|stoppen)	difficult to (put down|quit|stop)			A					
+noun_term_book_related	dilemma	dilemma			R					
+verb_term	tegenvallen	disappoint	%not	y	Neg					
+adjective_term_reader_related	teleurgesteld	disappointed			Neg					
+adjective_term_book_related	teleurstellend	disappointing			Neg					
+noun_term_book_related	teleurstelling	disappointment			Neg					
+noun_term_reader_related	ongeloof	disbelief	%suspend	y	Neg					
+adjective_term_book_related		discerning			R					
+adjective_term_book_related	onthutsend	disconcerting			A					
+adjective_term_book_related		disconnected	@reader		Neg					
+noun_term_reader_related	walging	disgust	@reader		Neg					
+adjective_term_book_related		disjointed			Neg					
+noun_term_reader_related	hekel	dislike			Neg					
+adjective_term_book_related	onsmakelijk	distasteful			Neg					
+adjective_term_book_related	apart	distinct	@style		S					
+noun_discontinuous_phrase		distinct voice			S					
+adjective_term_book_related		distracting			Neg					
+adjective_term_book_related	storend	disturbing			A					
+adjective_term_book_related	afwisselend	diverse			A					
+noun_term_book_related		downer			Neg					
+verb_continuous_phrase	sleep* (je|me) mee	drag (you|me) along			Att					
+verb_continuous_phrase	sleep* (je|me) mee	drag (you|me) along			A					
+noun_term_book_related	drama	drama			N					
+adjective_term_book_related	dramatisch	dramatic			N					
+adjective_term_book_related		dreadful	@general		Neg					
+adjective_term_book_related	dromerig	dreamy			A					
+verb_term		dribble			Neg					
+noun_term_book_related		dribble			Neg					
+adjective_term_book_related	droog	dry	%(humor|humour|wit|way)		H					
+adjective_term_book_related		dull			Neg					
+noun_term_book_related	saaiheid	dullness			Neg					
+adjective_term_book_related		dumb	@general		Neg					
+adjective_term_reader_related		eager to (read|finish|see)			Att					
+verb_discontinuous_phrase	(eenvoudig|makkelijk|gemakkelijk) volgen	easy to follow			N					
+verb_discontinuous_phrase		easy to imagine			N					
+verb_continuous_phrase	(makkelijk|gemakkelijk) te lezen	easy to read			S					
+verb_discontinuous_phrase		easy to relate			N					
+adjective_term_book_related		eccentric			A					
+adjective_term_book_related	leerzaam	educational			R					
+noun_discontinuous_phrase	uitwerking	effect on (me|you|reader)			A					
+adjective_term_book_related	elegant	elegant	@style		S					
+other		elegantly	@style		S					
+noun_continuous_phrase		element of surprise			Sur					
+noun_term_book_related		eloquence			S					
+adjective_term_book_related		eloquent			S					
+other		eloquently			S					
+noun_term_reader_related	emotie	emotion	@reader		A					
+adjective_term_reader_related	emotioneel	emotional	@reader		A					
+noun_term_reader_related	empathie	empathy			N					
+adjective_term_reader_related	betoverd	enchanted	@reader		A					
+adjective_term_book_related	betoverend	enchanting			A					
+adjective_term_book_related	bemoedigend	encouraging			A					
+adjective_term_book_related		endearing			A					
+adjective_term_book_related		energetic	@general		A					
+adjective_term_book_related		energetic	@plot		N					
+verb_term	aangrijpen	engage	%to	y	A					
+verb_term		engage	@topic		R					
+adjective_term_reader_related		engaged	@topic		R					
+adjective_term_reader_related		engaged	%(to)	y	R					
+adjective_term_book_related		engaging			A					
+adjective_term_book_related		engaging	@topic		R					
+verb_term		engross			Att					
+adjective_term_book_related		enigmatic			N					
+verb_term	genieten	enjoy	@general		A					
+verb_term	genieten	enjoy	@character		N					
+verb_term	genieten	enjoy	@plot		N					
+verb_term	genieten	enjoy	@topic		R					
+verb_term	genieten	enjoy	@style		S					
+adjective_term_book_related	plezierig	enjoyable	@general		A					
+adjective_term_book_related	plezierig	enjoyable	@plot		N					
+adjective_term_book_related	plezierig	enjoyable	@character		N					
+adjective_term_book_related	plezierig	enjoyable	@style		S					
+noun_term_reader_related		enjoyment			A					
+adjective_term_book_related	verhelderend	enlightening			R					
+adjective_term_book_related	onderhoudend	entertaining	@plot		N					
+adjective_term_book_related	onderhoudend	entertaining	@character		N					
+adjective_term_book_related	onderhoudend	entertaining	@style		S					
+adjective_term_book_related	onderhoudend	entertaining			A					
+noun_term_book_related		entertainment			A					
+noun_term_reader_related	enthousiasme	enthusiasm	@reader		A					
+adjective_term_book_related		enticing			A					
+adjective_term_reader_related		entranced			A					
+adjective_term_reader_related		entranced			Att					
+adjective_term_book_related		entrancing			A					
+adjective_term_book_related		entrancing			Att					
+verb_term		envision	@reader		N					
+adjective_term_book_related	erudiet	erudite			S					
+noun_term_book_related		escapism			N					
+adjective_term_book_related		evocative			A					
+adjective_term_book_related	uitstekend	excellent	@general		A					
+adjective_term_book_related	uitstekend	excellent	@plot		N					
+adjective_term_book_related	uitstekend	excellent	@character		N					
+adjective_term_book_related	uitstekend	excellent	@topic		R					
+adjective_term_book_related	uitstekend	excellent	@style		S					
+adjective_term_book_related	uitzonderlijk	exceptional	@plot		N					
+adjective_term_book_related	uitzonderlijk	exceptional	@character		N					
+adjective_term_book_related	uitzonderlijk	exceptional	@style		S					
+adjective_term_book_related	uitzonderlijk	exceptional			A					
+adjective_term_book_related		excessive			Neg					
+adjective_term_book_related	spannend	exciting	@plot		N					
+adjective_term_book_related	spannend	exciting			A					
+adjective_term_book_related	vermoeiend	exhausting			Neg					
+verb_discontinuous_phrase		expan* mind			R					
+noun_continuous_phrase		expecting something			N					
+verb_term	meebeleven	experience	@reader		N					
+adjective_term_book_related		exquisite	@plot		N					
+adjective_term_book_related		exquisite	@character		N					
+adjective_term_book_related		exquisite	@style		S					
+adjective_term_book_related		exquisite			A					
+adjective_term_book_related	buitengewoon	extraordinary	@plot		N					
+adjective_term_book_related	buitengewoon	extraordinary	@character		N					
+adjective_term_book_related	buitengewoon	extraordinary	@style		S					
+adjective_term_book_related	buitengewoon	extraordinary			A					
+adjective_term_book_related	fabelachtig	fabulous	@plot		N					
+adjective_term_book_related	fabelachtig	fabulous	@character		N					
+adjective_term_book_related	fabelachtig	fabulous	@style		S					
+adjective_term_book_related	fabelachtig	fabulous			A					
+adjective_term_book_related	fantastisch	fantastic	@general		A					
+adjective_term_book_related	fantastisch	fantastic	@plot		N					
+adjective_term_book_related	fantastisch	fantastic	@character		N					
+adjective_term_book_related	fantastisch	fantastic	@style		S					
+adverb_term_book_related		fantastically	@style		S					
+adjective_term_book_related		far-fetched			Neg					
+verb_term		fascinate	@topic		R					
+adjective_term_reader_related	gefascineerd	fascinated			A					
+adjective_term_reader_related		fascinated	@topic		R					
+adjective_term_book_related	fascinerend	fascinating			A					
+adjective_term_book_related		fascinating	@topic		R					
+noun_term_book_related	fascinatie	fascination	@reader		A					
+verb_term		fear	@reader		A					
+verb_continuous_phrase		fed up	@reader		Neg					
+noun_term_reader_related	gevoel	feeling			A					
+adjective_term_book_related		feisty			N					
+verb_discontinuous_phrase		figure out	@reader		R					
+noun_continuous_phrase	flat (character|characters)	flat (character|characters)			Neg					
+noun_term_book_related		flaw			Neg					
+noun_term_book_related		flow			N					
+adjective_term_book_related		fluid	@style		S					
+noun_continuous_phrase	stof tot nadenken	food for thought			R					
+adjective_term_book_related		forgettable			Neg					
+adjective_term_book_related		formulaic			Neg					
+adjective_term_book_related	fris	fresh	@plot		N					
+adjective_term_book_related	fris	fresh	@character		N					
+adjective_term_book_related	fris	fresh	@style		S					
+adjective_term_reader_related	angstig	frightened	@reader		N					
+adjective_term_book_related	beangstigend	frightening			N					
+verb_term	frustreren	frustrate			Neg					
+adjective_term_reader_related	gefrustreerd	frustrated			Neg					
+adjective_term_book_related		frustrating			Neg					
+noun_term_reader_related	pret	fun	@general		A					
+noun_term_reader_related	pret	fun	@character		N					
+noun_term_reader_related	pret	fun	@plot		N					
+noun_term_reader_related	pret	fun	@style		S					
+adjective_term_book_related	grappig	funny			H					
+adjective_term_reader_related	woedend	furious	@reader		A					
+noun_term_book_related	pareltje	gem			A					
+adjective_term_book_related		generic			Neg					
+noun_term_book_related		genius	@author		A					
+adjective_term_book_related	geniaal	genius	@plot		N					
+adjective_term_book_related	geniaal	genius	@style		S					
+adjective_term_book_related		genuine	@character		N					
+adjective_term_book_related		genuine	@plot		N					
+adjective_term_book_related		genuine	@style		S					
+adjective_term_book_related		genuine			A					
+adjective_term_book_related		gifted	@author		A					
+adjective_term_reader_related		glad			A					
+adjective_term_book_related		glib	@style		Neg					
+adjective_term_book_related		glib	@general		Neg					
+adjective_term_book_related	duister	gloomy			A					
+adjective_term_reader_related		glued			A					
+adjective_term_reader_related		glued			Att					
+adjective_term_book_related		good	@general		A					
+adjective_term_book_related		good	@plot		N					
+adjective_term_book_related		good	@character		N					
+adjective_term_book_related		good	@style		S					
+noun_term_reader_related	kippenvel	goosebumps			A					
+adjective_term_book_related	heerlijk	gorgeous	@plot		N					
+adjective_term_book_related		gory			A					
+verb_term	grijpen	grab	@reader		Att					
+verb_term	pakken	grab	@reader		A					
+adjective_term_book_related	groots	grand	@general		A					
+adjective_term_book_related	groots	grand	@plot		N					
+adjective_term_book_related	groots	grand	@style		S					
+verb_term	vastpakken	grasp			R					
+adjective_term_book_related	schurend	grating			Neg					
+adjective_term_book_related	geweldig	great	@general		A					
+adjective_term_book_related	geweldig	great	@plot		N					
+adjective_term_book_related	geweldig	great	@plot		N					
+adjective_term_book_related	geweldig	great	@character		N					
+adjective_term_book_related	geweldig	great	@topic		R					
+adjective_term_book_related	geweldig	great	@style		S					
+noun_term_reader_related		grief	@reader		A					
+noun_term_book_related	verdriet	grief	@reader		N					
+adjective_term_reader_related	grimmig	grim			A					
+verb_term		grip			Att					
+verb_term		grip			N					
+verb_term		gripping			Att					
+verb_term		gripping			N					
+adjective_term_book_related		gritty			A					
+adjective_term_book_related		grotesque	@character		N					
+adjective_term_book_related		grotesque			A					
+adjective_term_book_related		gruesome			A					
+adjective_term_book_related	afgezaagd	hackneyed			Neg					
+adjective_term_reader_related	blij	happy	@reader		A					
+adjective_term_reader_related	gelukkig	happy	@plot		N					
+adjective_term_book_related		harrowing			A					
+adjective_term_book_related		haunting	@style		S					
+adjective_term_book_related		haunting	@character		N					
+adjective_term_book_related		haunting			A					
+noun_term_book_related		heartache			A					
+noun_term_book_related		heartbreak			A					
+adjective_term_reader_related	hartgrondig	heartfelt			A					
+noun_term_reader_related		heartstrings			A					
+adjective_term_book_related		heavy-handed			Neg					
+adjective_term_book_related		heinous			A					
+adjective_term_book_related	hilarisch	hilarious			H					
+adjective_term_book_related		hokey			Neg					
+adjective_term_book_related		honest	%review	y	A					
+noun_continuous_phrase	eerlijk* (boek|verhaal|verhalen|portret*|wijze|verslag|beschrijving|manier)	honest* (book|story|stories|portrait*|way|account|description|descriptions)			A					
+verb_continuous_phrase		hooked (me|you)			Att					
+verb_continuous_phrase		hooked (me|you)			N					
+adjective_term_book_related	hoopvol	hopeful			A					
+adjective_term_book_related	gruwelijk	horrible			N					
+adjective_term_book_related	gruwelijk	horrible (style|plot|characters|story|book)			Neg					
+adjective_term_book_related		horrific			N					
+adjective_term_book_related		horrifying			N					
+noun_term_reader_related	knuffel	hug	@reader		A					
+noun_continuous_phrase		human condition			R					
+adjective_term_book_related	humoristisch	humorous			H					
+adjective_term_book_related	kwetsend	hurtful			N					
+noun_term_book_related	idee	idea	%(no|good)	y	R					
+verb_term	identificeren	identify			N					
+noun_term_book_related		image	@reader		S					
+noun_term_book_related		imagery			S					
+noun_term_book_related	verbeelding	imagination	%stretch	y	N					
+noun_term_book_related		imagination	@reader		R					
+adjective_term_book_related	fantasierijk	imaginative			N					
+verb_term	voorstellen	imagine			N					
+verb_term		imagine	@reader		R					
+adjective_term_book_related	onvolwassen	immature	@general		Neg					
+verb_term		immerse			N					
+adjective_term_reader_related	ondergedompeld	immersed			N					
+adjective_term_book_related		immersive			N					
+noun_term_reader_related		impatience			N					
+adjective_term_reader_related		impatient	%(installment|part|book|series)	y	Neg					
+adjective_term_book_related		implausible			Neg					
+noun_continuous_phrase	belangrijk* (onderwerp|onderwerpen|thema|thema's)	important (subject|subjects|topic|topics|theme|themes)			R					
+verb_continuous_phrase	onder de indruk	impressed			A					
+adjective_term_reader_related		impressed	@reader		R					
+adjective_term_book_related	indrukwekkend	impressive			A					
+adjective_term_book_related	indrukwekkend	impressive	@plot		N					
+adjective_term_book_related		impressive	@character		N					
+noun_continuous_phrase	in te leven	in (his|her|their) shoes			N					
+noun_continuous_phrase	in (zijn|z'n|haar|m'n|mijn|je) (greep|grip)	in (its|his|her) (grip|grasp)			Att					
+noun_continuous_phrase	in (zijn|z'n|haar|m'n|mijn|je) (greep|grip)	in (its|his|her) (grip|grasp)			N					
+noun_continuous_phrase	in mijn gedachten	in (my|your) mind	%doubt	y	A					
+noun_continuous_phrase	in (een|één) zucht	in (one|a single) (go|sitting|session)			Att					
+noun_continuous_phrase	in (een|één) zucht	in (one|a single) (go|sitting|session)			A					
+adjective_term_book_related		in-depth			R					
+adjective_term_book_related	onsamenhangend	incoherent	@plot		Neg					
+adjective_term_book_related	onsamenhangend	incoherent	@style		Neg					
+adjective_term_book_related	onbegrijpelijk	incomprehensible			Neg					
+adjective_term_book_related		inconsistent			Neg					
+adjective_term_book_related		incredible			A					
+adjective_term_book_related	ontzettend	incredible	@character		N					
+adjective_term_book_related		incredible	@style		S					
+adverb_term_book_related		incredibly	@character		N					
+adverb_term_book_related	ontzettend	incredibly	@style		S					
+adjective_term_reader_related	onverschillig	indifferent			Neg					
+adjective_term_book_related		infantile			Neg					
+adjective_term_book_related	informatief	informative			R					
+adjective_term_book_related	vernuftig	ingenious	@plot		N					
+adjective_term_book_related	vernuftig	ingenious			A					
+noun_term_book_related	vernuft	ingenuity	@plot		N					
+noun_term_book_related	vernuft	ingenuity			A					
+adjective_term_book_related	vernieuwend	innovative			A					
+noun_term_book_related		innuendo			H					
+adjective_term_reader_related	gestoord	insane			A					
+verb_discontinuous_phrase	(je|ik) (zat|zit) (in het verhaal)	inside the story			Att					
+verb_discontinuous_phrase	(je|ik) (zat|zit) (in het verhaal)	inside the story			N					
+adjective_term_book_related	inzichtelijk	insightful			R					
+adjective_term_book_related		insipid			Neg					
+verb_term		inspire	%(inspired)	y	R					
+adjective_term_book_related	inspirerend	inspiring			A					
+adjective_term_book_related		instructive			R					
+adjective_term_book_related	intelligent	intelligent	@plot		N					
+adjective_term_book_related	intelligent	intelligent			A					
+adjective_term_book_related	intens	intense	@general		A					
+adjective_term_book_related	intens	intense	@character		N					
+adjective_term_book_related		intense	@plot		N					
+adjective_term_book_related	intens	intense	@style		S					
+adverb_term_book_related		intensely	@style		S					
+noun_term_book_related	intensiteit	intensity			N					
+noun_term_reader_related	interesse	interest	%lost	y	Att					
+noun_term_reader_related	interesse	interest	%lost	y	A					
+verb_term	boeien	interest			A					
+verb_term		interest	@topic		R					
+noun_term_reader_related		interest	%(love|romantic|special)	y	R					
+adjective_term_reader_related	geboeid	interested	@character		N					
+adjective_term_reader_related	geboeid	interested	@plot		N					
+adjective_term_book_related	interessant	interesting	@general		A					
+adjective_term_book_related	boeiend	interesting	@plot		N					
+adjective_term_book_related	interessant	interesting	@character		N					
+adjective_term_book_related	interessant	interesting	@topic		R					
+adjective_term_book_related	interessant	interesting	@style		S					
+adjective_term_book_related		intricate	@character		N					
+adjective_term_book_related		intricate	@plot		N					
+adjective_term_book_related		intricate	@style		S					
+adjective_term_book_related		intricate	@topic		R					
+verb_term	intrigeren	intrigue			N					
+adjective_term_reader_related	geïntrigeerd	intrigued			N					
+adjective_term_book_related	intrigerend	intriguing			N					
+adjective_term_book_related		intriguing	@topic		R					
+adjective_term_book_related	intrigerend	intriguing	@style		S					
+adverb_term_book_related		intriguingly	@style		S					
+adjective_term_book_related	vindingrijk	inventive	@plot		N					
+adjective_term_book_related	vindingrijk	inventive	@style		S					
+adjective_term_book_related	vindingrijk	inventive			A					
+verb_continuous_phrase		involve (me|you|reader)			N					
+adjective_term_book_related	ironisch	ironic			H					
+noun_term_reader_related	ironie	irony			H					
+verb_term	irriteren	irritate	@reader		Neg					
+adjective_term_reader_related	geirriteerd	irritated	@reader		Neg					
+adjective_term_book_related		irritating			Neg					
+noun_term_reader_related	irritatie	irritation	@reader		Neg					
+verb_term		jar			Neg					
+adjective_term_book_related		jarring			Neg					
+other		joking			H					
+noun_term_book_related		jolt			Sur					
+verb_term		jolt			Sur					
+noun_term_reader_related	plezier	joy			A					
+adjective_term_book_related		joyful			A					
+adjective_term_book_related	sappig	juicy			A					
+noun_term_book_related	gemis	lack	@plot		Neg					
+noun_term_book_related	gemis	lack	@character		Neg					
+noun_term_book_related	gemis	lack	@style		Neg					
+noun_term_book_related	gemis	lack	@topic		Neg					
+adjective_term_book_related		lacking			Neg					
+adjective_term_book_related	flauw	lame			Neg					
+noun_continuous_phrase	taalgebruik	language (use|uses|used)			S					
+verb_term	lachen	laugh	@reader		H					
+noun_term_reader_related	lach	laugh			H					
+verb_continuous_phrase		laugh out loud			H					
+adjective_term_book_related	gelaagd	layered			R					
+verb_continuous_phrase	leidt je	leads you			N					
+noun_term_book_related	afknapper	letdown			Neg					
+noun_continuous_phrase	levensles	life lesson			R					
+adjective_term_book_related	levendig	lifelike	@character		N					
+adjective_term_book_related	levendig	lifelike	@plot		N					
+adjective_term_book_related	levensecht	lifelike			A					
+adjective_term_book_related	luchtig	light	@style		S					
+noun_continuous_phrase		light read			A					
+adjective_term_book_related		lighthearted			A					
+verb_term	bevallen	like	@general		A					
+verb_term	bevallen	like	@character		N					
+verb_term	bevallen	like	@plot		N					
+verb_term	bevallen	like	@topic		R					
+verb_term	bevallen	like	@style		S					
+adjective_term_book_related	literair	literary	@style		S					
+adjective_term_book_related	levendig	lively			A					
+adjective_term_book_related	levendig	lively	@character		N					
+adjective_term_book_related	levendig	lively	@plot		N					
+adjective_term_book_related	levendig	lively	@style		S					
+noun_term_book_related		loathing	%self	y	A					
+adjective_term_book_related	langdradig	long-winded			Neg					
+noun_continuous_phrase		loud laugh			H					
+adjective_term_book_related	liefelijk	lovely	@general		A					
+adjective_term_book_related	liefelijk	lovely	@plot		N					
+adjective_term_book_related	liefelijk	lovely	@character		N					
+adjective_term_book_related	liefelijk	lovely	@style		S					
+adjective_term_book_related		lucid			S					
+adjective_term_book_related		ludicrous			Neg					
+adjective_term_book_related	lyrisch	lyrical			S					
+adjective_term_book_related	macaber	macabre			A					
+adjective_term_reader_related		mad	@reader		Neg					
+adjective_term_book_related	magisch	magical	@plot		A					
+adjective_term_book_related	magisch	magical	@general		A					
+adjective_term_book_related	prachtig	magnificent			A					
+verb_continuous_phrase		makes (me|you|reader) laugh			H					
+verb_discontinuous_phrase		makes (me|you|reader) sad			A					
+verb_discontinuous_phrase	(moet) (diep|goed|lang|veel) (nadenken)	makes (me|you|reader) think			R					
+noun_term_book_related		masterpiece			A					
+adjective_term_book_related	betekenisvol	meaningful			R					
+adjective_term_book_related	matig	mediocre			Neg					
+noun_continuous_phrase		meditation on			R					
+other		meh			Neg					
+adjective_term_book_related	melodieus	melodious			S					
+noun_term_book_related	melodramatisch	melodrama			Neg					
+adjective_term_book_related	melodramatisch	melodramatic			Neg					
+adjective_term_book_related		memorable	@character		N					
+adjective_term_book_related		memorable			A					
+noun_term_book_related	boodschap	message			R					
+noun_term_book_related	metafoor	metaphor			Neu					
+adjective_term_book_related	wonderbaarlijk	miraculous	@plot		N					
+adjective_term_book_related	ellendig	miserable			A					
+noun_term_book_related	ellende	misery			A					
+adjective_term_book_related		modern	@style		S					
+verb_continuous_phrase		modernly (written|phrased)			S					
+adjective_term_book_related	eentonig	monotonous			Neg					
+adjective_term_book_related	zwaarmoedig	moody	@general		A					
+noun_term_book_related		moral	@topic		R					
+adjective_term_book_related	morbide	morbid			A					
+adjective_term_book_related	ontroerend	moving			A					
+adjective_term_book_related	aangrijpend	moving	@plot		N					
+adjective_term_book_related	ontroerend	moving	@character		N					
+adjective_term_book_related	ontroerend	moving	@style		S					
+verb_term	mijmeren	muse	@reader		R					
+adjective_term_book_related	mijmerend	musing			R					
+other_continous_phrase		must-read			A					
+adjective_term_book_related	mysterieus	mysterious			N					
+adjective_term_book_related	akelig	nasty			A					
+adjective_term_reader_related	zenuwachtig	nervous			A					
+noun_term_book_related		new (idea|ideas)			R					
+adjective_term_book_related	fijn	nice	@general		A					
+adjective_term_book_related	fijn	nice	@character		N					
+adjective_term_book_related	fijn	nice	@plot		N					
+adjective_term_book_related	fijn	nice	@topic		R					
+adjective_term_book_related	fijn	nice	@style		S					
+other		nicely	@style		S					
+noun_term_reader_related	nostalgie	nostalgia			A					
+adjective_term_reader_related	nostalgisch	nostalgic			A					
+verb_continuous_phrase	stoppen met lezen	not (quit|stop) reading			Att					
+verb_continuous_phrase	stoppen met lezen	not (quit|stop) reading			A					
+noun_continuous_phrase	geen fan van	not a fan of			Neg					
+noun_term_book_related	nuance	nuance			R					
+adjective_term_book_related	genuanceerd	nuanced			R					
+adjective_term_book_related	gevoelloos	numb			A					
+verb_continuous_phrase	bezig houden	occupy	@reader		A					
+adjective_term_book_related		odd	%at	y	Neg					
+adjective_term_book_related		odd	%at	y	R					
+adjective_term_book_related		offensive	@reader		Neg					
+adjective_term_book_related		old-fashioned			Neg					
+noun_continuous_phrase	op het puntje van (me|mijn|m'n|je) stoel	on the edge of (my|your) seat			Att					
+noun_continuous_phrase	op het puntje van (me|mijn|m'n|je) stoel	on the edge of (my|your) seat			A					
+noun_continuous_phrase	eendimensionaal	one-dimensional			Neg					
+adjective_term_book_related	beklemmend	oppressive	@general		Neg					
+adjective_term_book_related	optimistisch	optimistic			A					
+adjective_term_book_related	origineel	original	%language	y	A					
+adjective_term_book_related	origineel	original	@plot		N					
+adjective_term_book_related		original	@character		N					
+adjective_term_book_related	origineel	original	%(style|wording|phrasing|tone|language)		S					
+adjective_term_book_related		outlandish			H					
+adjective_term_book_related		outstanding	@plot		N					
+adjective_term_book_related		outstanding	@character		N					
+adjective_term_book_related		outstanding	@style		S					
+adjective_term_book_related		outstanding			A					
+noun_continuous_phrase	over the top	over the top			Neg					
+verb_term	overdenken	overthink			R					
+verb_term	overrompelen	overwhelm	@reader		A					
+adjective_term_reader_related	overdonderd	overwhelmed	@reader		A					
+adjective_term_book_related	overweldigend	overwhelming			A					
+noun_term_book_related	tempo	pace	@plot		N					
+noun_term_book_related	tempo	pace	@style		S					
+adjective_term_book_related	pijnlijk	painful			A					
+adjective_term_book_related	pijnlijk	painful	@plot		N					
+adjective_term_book_related		painful	@character		N					
+noun_term_book_related		peek			N					
+noun_term_reader_related		peeve			Neg					
+verb_term		perceive			R					
+adjective_term_book_related	perfect	perfect	@general		A					
+adjective_term_book_related	perfect	perfect	@plot		N					
+adjective_term_book_related	perfect	perfect	@style		S					
+adjective_term_book_related	perfect	perfect	@style		S					
+noun_term_book_related	perfectie	perfection			A					
+adverb_term_book_related	perfect	perfectly	@style		S					
+verb_term		perplex			Sur					
+adjective_term_reader_related	perplex	perplexed			Sur					
+adjective_term_book_related		perplexing			Sur					
+noun_term_book_related	perspectief	perspective	%(shift|switch|change)		Neu					
+adjective_term_book_related		phenomenal	@plot		N					
+adjective_term_book_related		phenomenal	@style		S					
+adjective_term_book_related		phenomenal			A					
+adjective_term_book_related	filosofisch	philosophical			R					
+noun_term_book_related	levensbeschouwing	philosophy			R					
+verb_term	verwoorden	phrase			Neu					
+adjective_term_book_related	geformuleerd	phrased			Neu					
+noun_term_book_related	formulering	phrasing			Neu					
+noun_term_book_related		picture	%book	y	N					
+verb_term	voor (me|mij|je) (zien|ziet|zag)	picture	@reader		N					
+adjective_term_book_related	zielig	pitiful			A					
+adjective_term_book_related		plausible			R					
+adjective_term_book_related	aangenaam	pleasant			A					
+adjective_term_book_related	fijn	pleasant	@plot		N					
+adjective_term_reader_related		pleased	@reader		A					
+adjective_term_book_related	prettig	pleasing			A					
+adjective_term_book_related		pleasurable			A					
+noun_term_book_related	genoegen	pleasure	@reader		A					
+adverb_term_book_related		poetically			S					
+adjective_term_book_related		pompous			Neg					
+verb_term_reader_related		ponder	@reader		R					
+other		poorly	%(plotted|exectured|developed|edited|done|constructed|researched|thought|drawn|handled|explained|translated|told|organized|conceived|paced|crafted|structured|presented)		Neg					
+adjective_term_reader_related	krachtig	powerful			A					
+adjective_term_reader_related	krachtig	powerful	@plot		N					
+adjective_term_reader_related	krachtig	powerful	@character		N					
+adjective_term_reader_related	krachtig	powerful	@style		S					
+adverb_term_book_related		powerfully	@style		S					
+adjective_term_book_related		preachy			Neg					
+adjective_term_book_related	voorspelbaar	predictable			Neg					
+adjective_term_book_related		pretentious			Neg					
+adjective_term_book_related		pretty			S					
+noun_term_book_related	problematiek	problem			R					
+adjective_term_book_related	diepgaand	profound			R					
+noun_term_reader_related	diepzinnigheid	profundity			R					
+adjective_term_book_related	veelbelovend	promising			A					
+adjective_term_book_related	prikkelend	provocative			A					
+verb_term	prikkelen	provoke			R					
+adjective_term_book_related		puerile			Neg					
+noun_term_book_related		pun	%intended	y	H					
+noun_term_book_related		punctuation			Neu					
+noun_continuous_phrase		purple prose			Neg					
+verb_discontinuous_phrase	wegleggen	put it (away|down)			Att					
+verb_discontinuous_phrase	wegleggen	put it (away|down)			A					
+adjective_term_book_related	raadselachtig	puzzling			R					
+adjective_term_book_related	hoogstaand	quality			A					
+adjective_term_book_related	hoogstaand	quality	@style		S					
+verb_discontinuous_phrase	(jammer|vreselijk|spijt|speet|snel) (uit was)	quickly finished			Att					
+adjective_term_book_related	eigenzinnig	quirky	@character		N					
+adjective_term_book_related	eigenzinnig	quirky	@style		S					
+adjective_term_book_related	eigenzinnig	quirky			A					
+adjective_term_book_related	pikant	racy			A					
+adjective_term_book_related		rambling	@reader	y	Neg					
+adjective_term_book_related		raw			A					
+verb_discontinuous_phrase	(in) (één|een|1) (adem|avond|dag|keer|middag|ruk|stuk|zucht) (gelezen|uitgelezen|uit)	read in one (go|sitting|night|day)			Att					
+verb_discontinuous_phrase	(in) (één|een|1) (adem|avond|dag|keer|middag|ruk|stuk|zucht) (gelezen|uitgelezen|uit)	read in one (go|sitting|night|day)			A					
+adjective_term_book_related	leesbaar	readable			S					
+noun_continuous_phrase	leesplezier	reading pleasure			A					
+adjective_term_book_related	realistisch	realistic	@plot		N					
+adjective_term_book_related	realistisch	realistic	@character		N					
+adjective_term_book_related	realistisch	realistic			A					
+noun_term_reader_related	herkenning	recognition	@reader		A					
+verb_term	aanraden	recommend			A					
+noun_continuous_phrase		red herring			N					
+		redeeming qualit*			N					
+verb_term_reader_related		reflect	@reader		R					
+noun_term_reader_related	overdenking	reflection			R					
+adjective_term_book_related	bespiegelend	reflective			R					
+adjective_term_book_related		reflexive			R					
+adjective_term_book_related	verfrissend	refreshing			A					
+verb_term_reader_related	spijt	regret	@reader		A					
+other	helaas	regrettably			Neg					
+adjective_term_book_related	ontspannend	relaxing			A					
+adjective_term_book_related	opvallend	remarkable			A					
+adjective_term_book_related	apart	remarkable	@plot		N					
+adjective_term_book_related	apart	remarkable	@character		N					
+adjective_term_book_related		remarkable	@general		R					
+adjective_term_book_related	opmerkelijk	remarkable	@style		S					
+adverb_term_book_related		remarkably	@style		S					
+verb_term	terugdenken aan	remember	%(don't|can't)	y	R					
+adjective_term_book_related	repetitief	repetitive			Neg					
+adjective_term_book_related	afstotelijk	repulsive			A					
+verb_continuous_phrase		required reading			A					
+verb_term	resoneren	resonate			R					
+adjective_term_reader_related	onrustig	restless	@reader		A					
+verb_term		reveal			Sur					
+noun_term_book_related		reveal			Sur					
+adjective_term_book_related		rewarding			A					
+noun_term_book_related	ritme	rhythm			S					
+adjective_term_book_related	ritmisch	rhythmic			S					
+adjective_term_book_related		ridiculous			H					
+adjective_term_book_related		ridiculous	@style		S					
+adjective_term_book_related		riveting			Att					
+adjective_term_book_related		riveting			A					
+adjective_term_book_related		riveting	@plot		N					
+adjective_term_book_related		riveting	@character		N					
+adjective_term_book_related		riveting	@style		S					
+verb_continuous_phrase	bescheuren	roar	%(laugh|laughing|laughter)		H					
+adjective_term_book_related	romantisch	romantic			N					
+adjective_term_book_related	triest	sad			A					
+adjective_term_book_related	triest	sad	@character		N					
+adjective_term_book_related	triest	sad	@plot		N					
+noun_term		sadness			A					
+noun_term_book_related	verdriet	sadness	@reader		N					
+adjective_term_book_related		sappy			Neg					
+noun_term_reader_related	sarcasme	sarcasm			H					
+adjective_term_book_related	sarcastisch	sarcastic			H					
+adjective_term_book_related		sassy			A					
+noun_term_book_related	satire	satire			H					
+adjective_term_book_related	satirisch	satirical			H					
+noun_term_reader_related	tevredenheid	satisfaction			A					
+adjective_term_reader_related	tevreden	satisfied			A					
+adjective_term_book_related	bevredigend	satisfying			A					
+verb_term	afschrikken	scare off			A					
+adjective_term_reader_related	bang	scared			A					
+adjective_term_book_related	eng	scary			N					
+noun_term_book_related	sensatie	sensation			A					
+adjective_term_book_related	sensationeel	sensational			A					
+noun_continuous_phrase	besef van tijd	sense of time			N					
+adjective_term_book_related	gevoelig	sensitive	@style		S					
+noun_term_book_related	fijngevoeligheid	sensitivity			A					
+noun_continuous_phrase	zinsbouw	sentence structure			S					
+noun_continuous_phrase	zinsgebruik	sentence use			S					
+noun_term_reader_related	sentiment	sentiment			A					
+adjective_term_book_related	sentimenteel	sentimental			A					
+adjective_term_book_related		shallow	@plot		Neg					
+adjective_term_book_related		shallow	@character		Neg					
+adjective_term_book_related	scherp	sharp	@style		S					
+adverb_term_book_related		sharply	@style		S					
+verb_term	schokken	shock			Sur					
+adjective_term_reader_related	geschokt	shocked			Sur					
+adjective_term_book_related	schokkend	shocking			A					
+adjective_term_book_related	schokkend	shocking	@plot		Sur					
+adjective_term_book_related	beknopt	short	%story	y	S					
+adjective_term_book_related	beknopt	short	@style		S					
+noun_term_book_related		shortcoming			Neg					
+adjective_term_book_related		sickening			A					
+adjective_term_book_related		signature	@style		S					
+adjective_term_book_related		silly			A					
+noun_term_book_related		simile			Neu					
+adjective_term_reader_related	oprecht	sincere			R					
+adjective_term_reader_related	oprecht	sincere			A					
+adjective_term_book_related		sinister			A					
+noun_term_reader_related	scepsis	skepticism	@reader		Neg					
+noun_term_book_related		skill	@author		A					
+adjective_term_book_related		skilled	@author		A					
+verb_term		skim	@reader		Neg					
+verb_term		skip	@reader		Neg					
+adjective_term_book_related	slordig	sloppy			Neg					
+adjective_term_book_related	traag	slow	%burn	y	Neg					
+adjective_term_book_related		smart	@style		H					
+verb_term	glimlachen	smile			H					
+noun_term_reader_related	glimlach	smile			H					
+adjective_term_book_related	vlot	smooth	@style		S					
+adverb_term_book_related		smoothly	@style		S					
+verb_term	gniffelen	snigger			H					
+noun_continuous_phrase		social commentary			R					
+other_continuous_phrase	maatschappijkritisch	socially critical			R					
+noun_continuous_phrase	moois	something beautiful			S					
+noun_continuous_phrase		something light			N					
+noun_continuous_phrase	speciaals	something special			A					
+adjective_term_book_related	klankrijk	sonorous			S					
+adjective_term_book_related	rustgevend	soothing			A					
+noun_term_book_related	verdriet	sorrow			A					
+noun_term_book_related	verdriet	sorrow	@reader		N					
+adjective_term_book_related	bijzonder	special	@general		A					
+adjective_term_book_related	bijzonder	special	@style		S					
+adjective_term_book_related	spectaculair	spectacular	@plot		N					
+adjective_term_book_related	spectaculair	spectacular			A					
+adjective_term_reader_related	sprakeloos	speechless	@reader		A					
+adjective_term_book_related		spellbinding			Att					
+adjective_term_book_related		spellbinding			N					
+adjective_term_reader_related		spellbound			Att					
+adjective_term_reader_related		spellbound			N					
+adjective_term_book_related	gekruid	spicy			A					
+adjective_term_book_related	schitterend	splendid			A					
+adjective_term_book_related	schitterend	splendid	@plot		N					
+adjective_term_book_related	schitterend	splendid	@style		S					
+adverb_term_book_related		splendidly	@style		S					
+adjective_term_book_related		spooky			N					
+noun_term_book_related	pit	spunk			A					
+adjective_term_book_related		spunky			A					
+adjective_term_book_related		staggering			A					
+verb_term		startle			Sur					
+adjective_term_book_related	ontstellend	startling			Sur					
+adjective_term_book_related		steamy			A					
+noun_term_book_related	stereotyp	stereotype			Neg					
+adjective_term_book_related	stereotiep	stereotypical			Neg					
+adjective_term_book_related	hoogdravend	stilted			Neg					
+verb_term	stimuleren	stimulate			R					
+adjective_term_book_related	stimulerend	stimulating			A					
+verb_term		stir	%pot	y	A					
+verb_continuous_phrase	stoppen met lezen	stop reading			Att					
+adjective_term_book_related		straightforward	@style		S					
+adjective_term_book_related		strange			A					
+adjective_term_book_related	apart	strange	@plot		N					
+adjective_term_book_related	apart	strange	@character		N					
+adjective_term_book_related		strange			R					
+noun_continuous_phrase		stream-of-consciousness			Neu					
+noun_term_book_related		strength			A					
+adjective_term_book_related	treffend	striking			A					
+adjective_term_book_related	treffend	striking	@character		N					
+adjective_term_book_related		striking	@plot		N					
+adjective_term_book_related		striking			R					
+adjective_term_book_related	treffend	striking	@style		S					
+adjective_term_book_related	overzichtelijk	structured			S					
+verb_term	stomverbaasd	stun			Sur					
+adjective_term_book_related	verbluffend	stunning	@plot		N					
+adjective_term_book_related	verbluffend	stunning			A					
+noun_term_book_related	stijl	style			S					
+adjective_term_book_related	stijlvol	stylish	@style		S					
+adjective_term_book_related	stilistisch	stylistic			S					
+noun_term_book_related		subject			R					
+adjective_term_book_related	subliem	sublime	@plot		N					
+adjective_term_book_related	subliem	sublime	@style		S					
+adjective_term_book_related	subliem	sublime			A					
+verb_term	onderdompelen	submerge			N					
+adjective_term_reader_related	ondergedompeld	submerged			N					
+adjective_term_book_related	subtiel	subtle	@style		S					
+noun_term_book_related	subtitliteit	subtlety			S					
+verb_term		suck	%in	y	Neg					
+adjective_term_book_related		superb	@style		S					
+adjective_term_book_related		superb	@plot		N					
+adjective_term_book_related		superb			A					
+adjective_term_book_related	oppervlakkig	superficial			Neg					
+noun_term_book_related	verrassing	surprise			Sur					
+verb_term	verrassen	surprise			Sur					
+verb_term	verbazen	surprise	@general		Sur					
+verb_term	verrassen	surprise	@general		Sur					
+verb_term	verbazen	surprise	@plot		Sur					
+adjective_term_reader_related	verrast	surprised			Sur					
+adjective_term_book_related	verrassend	surprising			Sur					
+adjective_term_book_related	surrealistisch	surreal	@character		N					
+adjective_term_book_related	surrealistisch	surreal	@plot		N					
+adjective_term_book_related	surrealistisch	surreal	@style		S					
+adjective_term_book_related	surrealistisch	surreal			A					
+adjective_term_book_related		suspenseful			Att					
+adjective_term_book_related		suspenseful			N					
+adjective_term_book_related		sweet	@general		A					
+adjective_term_book_related		sweet	@character		N					
+adjective_term_book_related		sweet	@style		S					
+adjective_term_book_related		sweet	@plot		N					
+verb_continuous_phrase	meegenomen	swept away			N					
+verb_continuous_phrase	meegenomen	swept away			N					
+verb_term		swoon			A					
+adjective_term_book_related		swoony			A					
+adjective_term_book_related	sympathiek	sympathetic			A					
+adjective_term_book_related	sympathiek	sympathetic	@character		N					
+noun_term_reader_related	sympathie	sympathy			A					
+noun_term_reader_related	sympathie	sympathy	@character		N					
+noun_term_book_related		synonym			Neu					
+noun_term_book_related		syntax			Neu					
+verb_discontinuous_phrase	overrompeld	taken by surprise			Sur					
+noun_term_book_related		talent	@author		A					
+adjective_term_book_related		talented	@author		A					
+adjective_term_book_related	voelbaar	tangible			N					
+adjective_term_book_related	smakeloos	tasteless			Neg					
+other		taxed	@reader		Neg					
+adjective_term_book_related		tedious			Neg					
+noun_term_book_related		tedium			Neg					
+adjective_term_book_related	teder	tender			A					
+noun_term_book_related	tederheid	tenderness			A					
+adjective_term		tense			N					
+noun_term_book_related	spanning	tension			N					
+adjective_term_book_related	verschrikkelijk	terrible	@style		Neg					
+adjective_term_book_related	verschrikkelijk	terrible			A					
+adjective_term_book_related		terrific	@plot		N					
+adjective_term_book_related		terrific	@character		N					
+adjective_term_book_related		terrific	@style		S					
+adjective_term_book_related		terrific			A					
+adjective_term_reader_related	doodsbenauwd	terrified	@reader		A					
+adjective_term_book_related	doodeng	terrifying			A					
+verb_discontinuous_phrase	(het) (nadeel) (is|blijft)	the (disadvantage|drawback) (is|was|remains)			Neg					
+verb_term_reader_related		think about	@reader		R					
+noun_continuous_phrase		thought-provoking			R					
+adjective_term_book_related	bedachtzaam	thoughtful	@style		S					
+adjective_term_book_related	bedachtzaam	thoughtful			R					
+noun_term_book_related		thrill			A					
+adjective_term_book_related	zinderend	thrilling	@plot		N					
+adjective_term_book_related	zinderend	thrilling			A					
+verb_discontinuous_phrase		time (goes|went) (fast|quickly)			Att					
+verb_discontinuous_phrase		time (goes|went) (fast|quickly)			A					
+adjective_term_book_related		tiresome			Neg					
+noun_term_reader_related		tissue			A					
+noun_term_book_related		tone			Neu					
+other_continuous_phrase		too (much|many|long|late|bad|short|far|hard|often|fast|good|quickly|soon|easy|slow|predictable|simple|naive)			Neg					
+noun_term_book_related		topic			R					
+adjective_term_book_related	actueel	topical			R					
+noun_term_book_related	kwelling	torment			A					
+adjective_term_book_related	aangrijpend	touching			A					
+adjective_term_book_related	aangrijpend	touching	@plot		N					
+adjective_term_book_related		touching	@character		N					
+adjective_term_book_related	pittig	tough	@general		A					
+noun_term_book_related	tragedie	tragedy			A					
+adjective_term_book_related	tragisch	tragic			N					
+adjective_term_reader_related		transported			N					
+adjective_term_book_related		trite			Neg					
+adjective_term_book_related		troublesome			A					
+adjective_term_book_related	waarachtig	truthful			A					
+noun_term_book_related		turnoff			Neg					
+noun_term_book_related		twist			N					
+adjective_term_book_related		twisted			A					
+other		ugh			A					
+adjective_term_book_related	ongeloofwaardig	unbelievable			Neg					
+adjective_term_book_related	onduidelijk	unclear			Neg					
+adjective_term_book_related	ongemakkelijk	uncomfortable			A					
+adjective_term_book_related		underwhelming			Neg					
+adjective_term_reader_related		uneasy	@reader		Neg					
+adjective_term_book_related	onverwacht	unexpected	@general	y	N					
+adjective_term_book_related	onverwacht	unexpected			Sur					
+adjective_term_book_related	onvergetelijk	unforgettable			N					
+adjective_term_reader_related		unhappy	@reader		Neg					
+adjective_term_book_related	uniek	unique			A					
+adjective_term_book_related	uniek	unique	@plot		N					
+adjective_term_book_related	uniek	unique	@character		N					
+adjective_term_book_related	uniek	unique	@style		S					
+adverb_term_book_related		uniquely	@style		S					
+adjective_term_book_related	onaangenaam	unpleasant			Neg					
+adjective_term_book_related		unputdownable			Att		Att?			
+adjective_term_book_related		unputdownable			N		Att?			
+adjective_term_book_related	onwerkelijk	unreal			Neg					
+adjective_term_book_related	onrealistisch	unrealistic			Neg					
+adjective_term_book_related		unsettling	@plot		N					
+adjective_term_book_related		unsettling	@style		S					
+adjective_term_book_related		unsettling			A					
+adjective_term_book_related		untidy			Neg					
+adjective_term_book_related		unwieldy			Neg					
+adjective_term_book_related	opbeurend	uplifting			A					
+adjective_term_reader_related	ontredderd	upset	@reader		A					
+verb_discontinuous_phrase		use of language			S					
+adjective_term_book_related	waardevol	valuable			A					
+adjective_term_book_related		valuable	@topic		R					
+adjective_term_book_related		varied			A					
+noun_term_book_related	breedspakerigheid	verbiage			Neg					
+adjective_term_book_related	breedsprakig	verbose			Neg					
+noun_term_book_related		verbosity			Neg					
+other_continuous_phrase	alleraardigst	very nice			A					
+adjective_term_book_related	helder	vivid	@style		S					
+adjective_term_book_related	helder	vivid	@character		N					
+adjective_term_book_related	levendig	vivid	@plot		N					
+noun_term_book_related		vocabulary			Neu					
+adjective_term_reader_related	warm	warm			A					
+verb_discontinuous_phrase		was not aware	@reader		R					
+adjective_term_book_related		wearisome			Neg					
+adjective_term_book_related		weird	@character		N					
+adjective_term_book_related		weird	@plot		N					
+adjective_term_book_related		weird			R					
+verb_continuous_phrase	goed gedaan	well done			A					
+adjective_term_book_related		whimsical			A					
+noun_term_book_related		wit			H					
+adjective_term_book_related	geestig	witty			H					
+verb_term		wonder	@reader		R					
+noun_term_reader_related	verwondering	wonder			A					
+adjective_term_book_related		wonderful	@general		A					
+adjective_term_book_related		wonderful	@character		N					
+adjective_term_book_related		wonderful	@plot		N					
+adjective_term_book_related		wonderful	@topic		R					
+adjective_term_book_related		wonderful	@style		S					
+other		wonderfully	@style		S					
+adjective_term_book_related	verwoord	worded			S					
+noun_term_book_related	breedspakigheid	wordiness			S					
+noun_continuous_phrase	bewoordingen	wording			S					
+adjective_term_book_related	breedsprakerig	wordy			Neg					
+adjective_term_book_related		worn	@plot		Neg					
+noun_continuous_phrase	(moeite) (waard)	worth it			A					
+other_continuous_phrase	lezenwaardig	worth reading			A					
+noun_continuous_phrase		worth the wait			A					
+adjective_term_book_related	waardeloos	worthless	@character	y	Neg					
+adjective_term_book_related		worthwhile			A					
+adjective_term_book_related	waardig	worthy			A					
+other		wow			A					
+verb_term	schrijven	write			Neu					
+noun_term_book_related		writing			Neu					
+noun_term_book_related	schrijfstijl	writing style			Neu					
+adjective_term_book_related	geschreven	written			Neu					
+adjective_term_book_related	wrang	wry			H					
